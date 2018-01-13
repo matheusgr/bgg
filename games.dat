@@ -1,0 +1,8562 @@
+(lp0
+(dp1
+S'boardgamedesigner'
+p2
+(lp3
+S'Antoine Bauza'
+p4
+asS'name'
+p5
+clxml.objectify
+fromstring
+p6
+(S'<name sortindex="1">7 Wonders</name>'
+p7
+tp8
+Rp9
+sS'playingtime'
+p10
+I30
+sS'minplayers'
+p11
+I2
+sS'boardgamemechanic'
+p12
+(lp13
+S'Card Drafting'
+p14
+aS'Hand Management'
+p15
+aS'Set Collection'
+p16
+aS'Simultaneous Action Selection'
+p17
+aS'Variable Player Powers'
+p18
+asS'boardgameexpansion'
+p19
+(lp20
+S'7 Wonders: Babel'
+p21
+aS'7 Wonders: Catan'
+p22
+aS'7 Wonders: Cities'
+p23
+aS'7 Wonders: Leaders'
+p24
+aS'7 Wonders: Manneken Pis'
+p25
+aS'7 Wonders: Wonder Pack'
+p26
+aS'Collection (fan expansion for 7 Wonders)'
+p27
+aS'Empires (fan expansion for 7 Wonders)'
+p28
+aS'Game Wonders (fan expansion for 7 Wonders)'
+p29
+aS'Lost Wonders (fan expansion for 7 Wonders)'
+p30
+aS'More Wonders... (fan expansion for 7 Wonders)'
+p31
+aS'Myths (fan expansion for 7 Wonders)'
+p32
+aS'Ruins (fan expansion for 7 Wonders)'
+p33
+aS'Sailors (fan expansion for 7 Wonders)'
+p34
+asS'maxplayers'
+p35
+I7
+sS'best_nplayers'
+p36
+S'4'
+p37
+sS'boardgameartist'
+p38
+(lp39
+S'Miguel Coimbra'
+p40
+asS'boardgamepublisher'
+p41
+(lp42
+S'Repos Production'
+p43
+aS'ADC Blackfire Entertainment'
+p44
+aS'Asmodee'
+p45
+aS'Asterion Press'
+p46
+aVGalápagos Jogos
+p47
+aVGém Klub Kft.
+p48
+aS'Hobby Japan'
+p49
+aS'Kaissa Chess & Games'
+p50
+aS'Lautapelit.fi'
+p51
+aS'Lifestyle Boardgames Ltd'
+p52
+aS'Rebel'
+p53
+asS'best_age'
+p54
+S'10'
+p55
+sS'maxplaytime'
+p56
+I30
+sS'boardgamefamily'
+p57
+(lp58
+S'7 Wonders'
+p59
+aS'Tableau Building'
+p60
+asS'minplaytime'
+p61
+I30
+sS'boardgamecategory'
+p62
+(lp63
+S'Ancient'
+p64
+aS'Card Game'
+p65
+aS'City Building'
+p66
+aS'Civilization'
+p67
+asa(dp68
+S'boardgamedesigner'
+p69
+(lp70
+S'Antoine Bauza'
+p71
+aS'Bruno Cathala'
+p72
+asg5
+g6
+(S'<name sortindex="1">7 Wonders Duel</name>'
+p73
+tp74
+Rp75
+sg10
+I30
+sg11
+I2
+sS'boardgamemechanic'
+p76
+(lp77
+S'Card Drafting'
+p78
+aS'Set Collection'
+p79
+asS'boardgameexpansion'
+p80
+(lp81
+S'7 Wonders Duel: Pantheon'
+p82
+aS'7 Wonders Duel: Statue of Liberty'
+p83
+aS'7 Wonders Duel: Stonehenge'
+p84
+aS'7 Wonders Duel: The Messe Essen'
+p85
+asg35
+I2
+sg36
+S'2'
+p86
+sS'boardgameartist'
+p87
+(lp88
+S'Miguel Coimbra'
+p89
+asS'boardgamepublisher'
+p90
+(lp91
+S'Repos Production'
+p92
+aS'ADC Blackfire Entertainment'
+p93
+aS'Asterion Press'
+p94
+aVGalápagos Jogos
+p95
+aVGém Klub Kft.
+p96
+aS'Kaissa Chess & Games'
+p97
+aS'Lautapelit.fi'
+p98
+aS'Lifestyle Boardgames Ltd'
+p99
+aS'Ludicus'
+p100
+aS'Rebel'
+p101
+asg54
+S'10'
+p102
+sg56
+I30
+sS'boardgamefamily'
+p103
+(lp104
+S'7 Wonders'
+p105
+aS'7 Wonders Duel'
+p106
+aS'Tableau Building'
+p107
+asg61
+I30
+sS'boardgamecategory'
+p108
+(lp109
+S'Ancient'
+p110
+aS'Card Game'
+p111
+aS'City Building'
+p112
+aS'Civilization'
+p113
+asa(dp114
+S'boardgamedesigner'
+p115
+(lp116
+S'Bruno Cathala'
+p117
+aS'Charles Chevallier'
+p118
+asg5
+g6
+(S'<name sortindex="1">Abyss</name>'
+p119
+tp120
+Rp121
+sg10
+I60
+sg11
+I2
+sS'boardgamemechanic'
+p122
+(lp123
+S'Auction/Bidding'
+p124
+aS'Card Drafting'
+p125
+aS'Hand Management'
+p126
+aS'Press Your Luck'
+p127
+aS'Set Collection'
+p128
+asS'boardgameexpansion'
+p129
+(lp130
+S'Abyss: Anglerfish'
+p131
+aS'Abyss: Key Monster Tokens'
+p132
+aS'Abyss: Kraken'
+p133
+aS'Abyss: Leviathan'
+p134
+aS'Brettspiel Adventskalender 2015'
+p135
+asg35
+I4
+sg36
+g37
+sS'boardgameartist'
+p136
+(lp137
+S'Xavier Collette'
+p138
+asS'boardgamepublisher'
+p139
+(lp140
+S'Bombyx'
+p141
+aS'Asmodee'
+p142
+aS'Asterion Press'
+p143
+aVGalápagos Jogos
+p144
+aS'Rebel'
+p145
+asg54
+S'12'
+p146
+sg56
+I60
+sg61
+I30
+sS'boardgamecategory'
+p147
+(lp148
+S'Card Game'
+p149
+aS'Mythology'
+p150
+aS'Science Fiction'
+p151
+asa(dp152
+S'boardgamedesigner'
+p153
+(lp154
+S'Luiz Dal Monte Neto'
+p155
+asg5
+g6
+(S'<name sortindex="1">Alquimix</name>'
+p156
+tp157
+Rp158
+sg10
+I0
+sg11
+I2
+sS'boardgamemechanic'
+p159
+(lp160
+S'Set Collection'
+p161
+asg35
+I4
+sS'boardgamepublisher'
+p162
+(lp163
+S'Grow Jogos e Brinquedos'
+p164
+asg56
+I0
+sg61
+I0
+sa(dp165
+S'boardgamedesigner'
+p166
+(lp167
+S'Emiliano Sciarra'
+p168
+asg5
+g6
+(S'<name sortindex="1">BANG!</name>'
+p169
+tp170
+Rp171
+sg10
+I40
+sS'boardgamecompilation'
+p172
+(lp173
+S'BANG! 10th Anniversary'
+p174
+aS'BANG! The Bullet!'
+p175
+aS'Wanted! Dead or Alive'
+p176
+asg11
+I4
+sS'boardgamemechanic'
+p177
+(lp178
+S'Hand Management'
+p179
+aS'Partnerships'
+p180
+aS'Player Elimination'
+p181
+aS'Take That'
+p182
+aS'Variable Player Powers'
+p183
+asS'boardgameexpansion'
+p184
+(lp185
+S'BANG! A Fistful of Cards'
+p186
+aS'BANG! Armed & Dangerous'
+p187
+aS'BANG! Bloody Mary'
+p188
+aS'BANG! Claus "The Saint"'
+p189
+aS'BANG! Dodge City'
+p190
+aS'BANG! Dodge City with High Noon expansion'
+p191
+aS'BANG! Expansion Pack'
+p192
+aS'BANG! Face Off'
+p193
+aS'BANG! Gold Rush'
+p194
+aS'BANG! High Noon'
+p195
+aS'BANG! High Noon/A Fistful of Cards'
+p196
+aS'BANG! Johnny Kisch'
+p197
+aS'BANG! The Valley of Shadows'
+p198
+aS'BANG! Uncle Will'
+p199
+aS'BANG! Wild West Show'
+p200
+aS'Death Mesa (fan expansion for BANG!)'
+p201
+aS'O.K. Corral (fan expansion for BANG!)'
+p202
+asg35
+I7
+sS'boardgameimplementation'
+p203
+(lp204
+S'BANG! The Dice Game'
+p205
+aS'BANG! The Duel'
+p206
+aS'BANG!: Halo'
+p207
+aS'BANG!: Heroes of the Storm'
+p208
+aS'BANG!: The Walking Dead'
+p209
+aVBang!: Walking Dead \u2013 We are the Walking Dead Expansion
+p210
+aS'Samurai Sword'
+p211
+aS'Samurai Sword: Rising Sun'
+p212
+asg36
+S'7'
+p213
+sS'boardgameartist'
+p214
+(lp215
+S'Alessandro Pierangelini'
+p216
+asS'boardgamepublisher'
+p217
+(lp218
+S'dV Giochi'
+p219
+aS'ABACUSSPIELE'
+p220
+aS'Albi'
+p221
+aS'Asmodee'
+p222
+aS'Bard Centrum Gier'
+p223
+aVCrómola
+p224
+aS'Edge Entertainment'
+p225
+aVGém Klub Kft.
+p226
+aS'Grow Jogos e Brinquedos'
+p227
+aS'Hobby World'
+p228
+aS'Kaissa Chess & Games'
+p229
+aS'Korea Boardgames co., Ltd.'
+p230
+aS'Lautapelit.fi'
+p231
+aS'Ludicus'
+p232
+aS'Mayfair Games'
+p233
+aS'NeoTroy Games'
+p234
+aS'PS-Games'
+p235
+aS'Swan Panasia Co., Ltd.'
+p236
+aS'Tilsit'
+p237
+asg54
+S'10'
+p238
+sg56
+I40
+sS'boardgamefamily'
+p239
+(lp240
+S'BANG!'
+p241
+asg61
+I20
+sS'boardgamecategory'
+p242
+(lp243
+S'American West'
+p244
+aS'Bluffing'
+p245
+aS'Card Game'
+p246
+aS'Deduction'
+p247
+aS'Fighting'
+p248
+asa(dp249
+S'boardgamedesigner'
+p250
+(lp251
+VMarc André
+p252
+asg5
+g6
+(S'<name sortindex="1">Barony</name>'
+p253
+tp254
+Rp255
+sg10
+I45
+sg11
+I2
+sS'boardgamemechanic'
+p256
+(lp257
+S'Area Control / Area Influence'
+p258
+aS'Area Movement'
+p259
+aS'Modular Board'
+p260
+asS'boardgameexpansion'
+p261
+(lp262
+S'Barony: Sorcery'
+p263
+asg35
+I4
+sg36
+g37
+sS'boardgameartist'
+p264
+(lp265
+VIsmaël Pommaz
+p266
+asS'boardgamepublisher'
+p267
+(lp268
+S'Matagot'
+p269
+aS'Asmodee'
+p270
+aS'Conclave Editora'
+p271
+aS'Hobby Japan'
+p272
+aS'Rebel'
+p273
+aS"Surfin' Meeple China"
+p274
+asg54
+S'10'
+p275
+sg56
+I45
+sS'boardgamefamily'
+p276
+(lp277
+S'Combinatorial'
+p278
+asg61
+I45
+sS'boardgamecategory'
+p279
+(lp280
+S'Abstract Strategy'
+p281
+aS'Medieval'
+p282
+aS'Territory Building'
+p283
+asa(dp284
+S'boardgamedesigner'
+p285
+(lp286
+S'Clifford Von Wickler'
+p287
+asg5
+g6
+(S'<name sortindex="1">Battleship</name>'
+p288
+tp289
+Rp290
+sg10
+I30
+sS'boardgamecompilation'
+p291
+(lp292
+S'3-4-2'
+p293
+asg11
+I2
+sS'boardgamemechanic'
+p294
+(lp295
+S'Secret Unit Deployment'
+p296
+asS'boardgameexpansion'
+p297
+(lp298
+S'Super Sea Battle'
+p299
+asg35
+I2
+sS'boardgameimplementation'
+p300
+(lp301
+S'Battleship Command: Pirates of the Caribbean'
+p302
+aS'Battleship: Star Wars Advanced Mission'
+p303
+aS'Battleship: The Tactical Combat Game'
+p304
+aS'Electronic Battleship'
+p305
+aS'Electronic Battleship Advanced Mission'
+p306
+aS'Electronic Talking Battleship'
+p307
+aS'Shaun the Sheep Travel Compendium'
+p308
+aS'Star Wars Electronic Galactic Battle'
+p309
+aS'Voice Sea Battle II'
+p310
+asg36
+g86
+sS'boardgameartist'
+p311
+(lp312
+S'(Uncredited)'
+p313
+aS'Taavi Oolberg'
+p314
+asS'boardgamepublisher'
+p315
+(lp316
+S'(Unknown)'
+p317
+aS'3M'
+p318
+aS'Action Games and Toys Ltd'
+p319
+aVAG Müller (AGMüller)
+p320
+aS'Alga'
+p321
+aS'The American Belt Company'
+p322
+aS'Aristoplay'
+p323
+aS'ASS Altenburger Spielkarten'
+p324
+aS'BCF'
+p325
+aS'Bergsala Enigma'
+p326
+aS'Berliner Spielkarten'
+p327
+aS'Carlit'
+p328
+aS'CEFA (Celulosa Fabril S. A.)'
+p329
+aS'Chad Valley Co Ltd.'
+p330
+aS'CHH Games'
+p331
+aS'Clementoni'
+p332
+aS'Dal Negro'
+p333
+aS'danspil'
+p334
+aS'Exclusive Toy Corp.'
+p335
+aS'Falomir Juegos'
+p336
+aS'Games International BV'
+p337
+aS'Gherzi'
+p338
+aS'Goldmerk'
+p339
+aS'El Greco'
+p340
+aS'Grow Jogos e Brinquedos'
+p341
+aS'Guau'
+p342
+aS'Hasbro'
+p343
+aS'HEMA'
+p344
+aS'House of Marbles'
+p345
+aS'Ideal'
+p346
+aS'Inovac Rima SA'
+p347
+aS'Invicta Games'
+p348
+aS'J & L Randall, Ltd.'
+p349
+aS'Jouets Mont-Blanc'
+p350
+aS'Kaywood Corp.'
+p351
+aS'King International'
+p352
+aS'Klee'
+p353
+aS'Lakeside'
+p354
+aS'Magic Box Int.'
+p355
+aS'Maple Toys'
+p356
+aVMax Dähnert & Söhne
+p357
+aS'MB Giochi'
+p358
+aS'MB Jeux'
+p359
+aS'MB Spellen'
+p360
+aS'MB Spiele'
+p361
+aS'Milton Bradley'
+p362
+aS'Montitoys'
+p363
+aS'Mulder'
+p364
+aS'Nu-Bef'
+p365
+aS'Pais e Filhos'
+p366
+aS'Palet spil'
+p367
+aS'Papita'
+p368
+aS'Parker Brothers'
+p369
+aS'Paul Lamond Games Ltd'
+p370
+aS'Peri Spiele'
+p371
+aS'Peter Pan Playthings'
+p372
+aS'Piatnik'
+p373
+aS'Poptoy'
+p374
+aS'The Purple Cow'
+p375
+aS'Saitek'
+p376
+aS'Sala'
+p377
+aS'Schmidt Spiele'
+p378
+aS'Selecta Spielzeug'
+p379
+aS'Smethport Specialty Co.'
+p380
+aS"Spear's Games"
+p381
+aS'Stellar Games'
+p382
+aS'Tactic'
+p383
+aS'Tesco'
+p384
+aS'The Toy Company Argentina S.R.L.'
+p385
+aS'Transogram'
+p386
+aS'Trixy Games'
+p387
+aS'Unikatoy'
+p388
+aS'Vilpa'
+p389
+aS'Wilco Publishing'
+p390
+asg54
+S'6'
+p391
+sg56
+I30
+sS'boardgamefamily'
+p392
+(lp393
+S'3M Paper Games Series'
+p394
+aS'Atlantis'
+p395
+aS'Battleship'
+p396
+aS'Goldmerk Games Travel Games for Smart Kids'
+p397
+aS'Tark Mees Taskus'
+p398
+asg61
+I30
+sS'boardgamecategory'
+p399
+(lp400
+S"Children's Game"
+p401
+aS'Deduction'
+p402
+aS'Nautical'
+p403
+aS'Wargame'
+p404
+asa(dp405
+S'boardgamedesigner'
+p406
+(lp407
+S'(Uncredited)'
+p408
+asg5
+g6
+(S'<name sortindex="1">Brain Trainer</name>'
+p409
+tp410
+Rp411
+sg10
+I0
+sg11
+I1
+sS'boardgamemechanic'
+p412
+(lp413
+S'Pattern Building'
+p414
+aS'Point to Point Movement'
+p415
+asg35
+I2
+sS'boardgameartist'
+p416
+(lp417
+S'(Uncredited)'
+p418
+asS'boardgamepublisher'
+p419
+(lp420
+S'Grow Jogos e Brinquedos'
+p421
+aS'Norsk Publikasjonstjeneste A/S'
+p422
+aS'Peter Pan Playthings'
+p423
+asg56
+I0
+sS'boardgamefamily'
+p424
+(lp425
+S'Combinatorial'
+p426
+asg61
+I0
+sS'boardgamecategory'
+p427
+(lp428
+S'Abstract Strategy'
+p429
+asa(dp430
+S'boardgamedesigner'
+p431
+(lp432
+S'Keith Matejka'
+p433
+asg5
+g6
+(S'<name sortindex="1">Bullfrogs</name>'
+p434
+tp435
+Rp436
+sg10
+I40
+sg11
+I2
+sS'boardgamemechanic'
+p437
+(lp438
+S'Action Point Allowance System'
+p439
+aS'Area Control / Area Influence'
+p440
+aS'Hand Management'
+p441
+aS'Modular Board'
+p442
+asS'boardgameexpansion'
+p443
+(lp444
+S'Bullfrogs: Solitaire Variant Expansion'
+p445
+asg35
+I4
+sg36
+g86
+sS'boardgameartist'
+p446
+(lp447
+S'John Ariosa'
+p448
+aS'Jacqui Davis'
+p449
+aS'Luis Francisco'
+p450
+aS'Anita Osburn'
+p451
+asS'boardgamepublisher'
+p452
+(lp453
+S'FunBox Jogos'
+p454
+aS'Renegade Game Studios'
+p455
+aS'Thunderworks Games'
+p456
+asg54
+S'8'
+p457
+sg56
+I40
+sS'boardgamefamily'
+p458
+(lp459
+S'Animals: Frogs'
+p460
+aS'Crowdfunding: Kickstarter'
+p461
+aS'Madison Game Design Cabal'
+p462
+asg61
+I20
+sS'boardgamecategory'
+p463
+(lp464
+S'Abstract Strategy'
+p465
+aS'Animals'
+p466
+aS'Card Game'
+p467
+asa(dp468
+S'boardgamedesigner'
+p469
+(lp470
+VKlaus-Jürgen Wrede
+p471
+asS'boardgameintegration'
+p472
+(lp473
+S'Carcassonne: Wheel of Fortune'
+p474
+asg5
+g6
+(S'<name sortindex="1">Carcassonne</name>'
+p475
+tp476
+Rp477
+sg10
+I45
+sS'boardgamecompilation'
+p478
+(lp479
+S'Carcassonne Big Box'
+p480
+aS'Carcassonne Big Box 2'
+p481
+aS'Carcassonne Big Box 3'
+p482
+aS'Carcassonne Big Box 4'
+p483
+aS'Carcassonne Big Box 5'
+p484
+aS'Carcassonne Big Box 6'
+p485
+aVCarcassonne inklusive Händler & Baumeister
+p486
+aS'Carcassonne Limited Edition'
+p487
+aVCarcassonne Müller Exklusiv-Edition
+p488
+aS'Carcassonne: 10 Year Special Edition'
+p489
+aV\u041a\u0430\u0440\u043a\u0430\u0441\u0441\u043e\u043d: \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u041f\u043e\u0434\u0430\u0440\u043e\u043a
+p490
+asg11
+I2
+sS'boardgamemechanic'
+p491
+(lp492
+S'Area Control / Area Influence'
+p493
+aS'Tile Placement'
+p494
+asS'boardgameexpansion'
+p495
+(lp496
+S'20 Jahre Darmstadt Spielt'
+p497
+aVCarcassonne: Bonusplättchen Spiel 2014
+p498
+aVCarcassonne: Bonusplättchen Spiel 2015
+p499
+aVCarcassonne: Bonusplättchen Spiel 2016
+p500
+aVCarcassonne: Bonusplättchen Spiel 2017
+p501
+aS'Carcassonne: Bridges, Castles, and Bazaars'
+p502
+aS'Carcassonne: Burgen in Deutschland'
+p503
+aS'Carcassonne: Catapult'
+p504
+aS'Carcassonne: Cathedrals in Germany'
+p505
+aS'Carcassonne: Corn Circles II'
+p506
+aS'Carcassonne: Cult, Siege and Creativity'
+p507
+aS'Carcassonne: CutCassonne'
+p508
+aS'Carcassonne: Darmstadt'
+p509
+aS'Carcassonne: Das Labyrinth'
+p510
+aS'Carcassonne: Der Osterhase'
+p511
+aS'Carcassonne: Der Tunnel'
+p512
+aS'Carcassonne: Die Belagerer'
+p513
+aS'Carcassonne: Die Katharer'
+p514
+aVCarcassonne: Die Klöster
+p515
+aS'Carcassonne: Die Kornkreise'
+p516
+aVCarcassonne: Die Märkte zu Leipzig
+p517
+aS'Carcassonne: Die Stadttore'
+p518
+aVCarcassonne: Die Wachtürme
+p519
+aS'Carcassonne: Die Wahrsagerin'
+p520
+aS'Carcassonne: Die Windrosen'
+p521
+aS'Carcassonne: Die Windrosen II'
+p522
+aVCarcassonne: Expansion 1 \u2013 Inns & Cathedrals
+p523
+aVCarcassonne: Expansion 10 \u2013 Under the Big Top
+p524
+aVCarcassonne: Expansion 2 \u2013 Traders & Builders
+p525
+aVCarcassonne: Expansion 3 \u2013 The Princess & The Dragon
+p526
+aVCarcassonne: Expansion 4 \u2013 The Tower
+p527
+aVCarcassonne: Expansion 5 \u2013 Abbey & Mayor
+p528
+aVCarcassonne: Expansion 6 \u2013 Count, King & Robber
+p529
+aS'Carcassonne: Halb so wild'
+p530
+aS'Carcassonne: Halb so wild II'
+p531
+aS'Carcassonne: Hero at the Crossroads & Baba Yaga'
+p532
+aS'Carcassonne: Hills & Sheep'
+p533
+aS'Carcassonne: King & Scout'
+p534
+aS'Carcassonne: Kreivi ja Kuningas'
+p535
+aS'Carcassonne: La Porxada'
+p536
+aS'Carcassonne: Little Buildings'
+p537
+aS'Carcassonne: Mage & Witch'
+p538
+aVCarcassonne: Nikolaus-Zählleiste
+p539
+aS'Carcassonne: Science and Magic'
+p540
+aS'Carcassonne: Solovei Razboynik and Vodyanoy'
+p541
+aS'Carcassonne: The Count of Carcassonne'
+p542
+aS'Carcassonne: The Cult'
+p543
+aS'Carcassonne: The Ferries'
+p544
+aS'Carcassonne: The Festival'
+p545
+aS'Carcassonne: The Flying Machines'
+p546
+aS'Carcassonne: The Gold Mines'
+p547
+aS'Carcassonne: The Messengers'
+p548
+aS'Carcassonne: The Mini Expansion'
+p549
+aS'Carcassonne: The Phantom'
+p550
+aS'Carcassonne: The Plague'
+p551
+aS'Carcassonne: The River'
+p552
+aS'Carcassonne: The River II'
+p553
+aS'Carcassonne: The Robbers'
+p554
+aS'Carcassonne: The School'
+p555
+aV\u041a\u0430\u0440\u043a\u0430\u0441\u0441\u043e\u043d: \u0414\u0432\u043e\u0440\u044f\u043d\u0435 \u0438 \u0411\u0430\u0448\u043d\u0438
+p556
+aV\u041a\u0430\u0440\u043a\u0430\u0441\u0441\u043e\u043d: \u041f\u0440\u0435\u0434\u043c\u0435\u0441\u0442\u044c\u044f \u0438 \u043e\u0431\u0438\u0442\u0430\u0442\u0435\u043b\u0438
+p557
+asg35
+I5
+sS'boardgameimplementation'
+p558
+(lp559
+S'The Ark of the Covenant'
+p560
+aS'Carcassonne: Amazonas'
+p561
+aS'Carcassonne: Gold Rush'
+p562
+aS'Carcassonne: Hunters and Gatherers'
+p563
+aS'Carcassonne: Over Hill and Dale'
+p564
+aS'Carcassonne: South Seas'
+p565
+aS'Carcassonne: Star Wars'
+p566
+aS'Carcassonne: The Castle'
+p567
+aS'Carcassonne: The City'
+p568
+aS'Carcassonne: The Discovery'
+p569
+aS'Carcassonne: Wheel of Fortune'
+p570
+aS'Carcassonne: Winter Edition'
+p571
+aS'My First Carcassonne'
+p572
+aS'New World: A Carcassonne Game'
+p573
+asg36
+g86
+sS'boardgameartist'
+p574
+(lp575
+VDoris Matthäus
+p576
+aVAnne Pätzke
+p577
+aS'Chris Quilliams'
+p578
+aVKlaus-Jürgen Wrede
+p579
+asS'boardgamepublisher'
+p580
+(lp581
+VHans im Glück
+p582
+aS'999 Games'
+p583
+aS'Albi'
+p584
+aS'Bard Centrum Gier'
+p585
+aS'Bergsala Enigma'
+p586
+aS'Brain Games'
+p587
+aS'cutia.ro'
+p588
+aS'Devir'
+p589
+aS'Fantasmagoria'
+p590
+aVFilosofia Éditions
+p591
+aS'Giochi Uniti'
+p592
+aS'Grow Jogos e Brinquedos'
+p593
+aS'Hobby World'
+p594
+aVÍsöld ehf.
+p595
+aS'Kaissa Chess & Games'
+p596
+aS'Korea Boardgames co., Ltd.'
+p597
+aS'Lautapelit.fi'
+p598
+aS'Midgaard Games'
+p599
+aS'MINDOK'
+p600
+aVMöbius Games
+p601
+aS'Monkey Time'
+p602
+aS'NeoTroy Games'
+p603
+aS'Piatnik'
+p604
+aS'Rio Grande Games'
+p605
+aS'Schmidt Spiele'
+p606
+aS'Smart Ltd'
+p607
+aS'Stupor Mundi'
+p608
+aS'Swan Panasia Co., Ltd.'
+p609
+aS'Venice Connection'
+p610
+aS'Ventura Games'
+p611
+aS'Z-Man Games'
+p612
+asg54
+g457
+sg56
+I45
+sS'boardgamefamily'
+p613
+(lp614
+S'Carcassonne'
+p615
+aS'Country: France'
+p616
+asg61
+I30
+sS'boardgamecategory'
+p617
+(lp618
+S'City Building'
+p619
+aS'Medieval'
+p620
+aS'Territory Building'
+p621
+asa(dp622
+S'boardgamedesigner'
+p623
+(lp624
+VKlaus-Jürgen Wrede
+p625
+asg5
+g6
+(S'<name sortindex="1">Carcassonne: Expansion 2 &#8211; Traders &amp; Builders</name>'
+p626
+tp627
+Rp628
+sg10
+I60
+sS'boardgamecompilation'
+p629
+(lp630
+S'Carcassonne Big Box'
+p631
+aS'Carcassonne Big Box 2'
+p632
+aS'Carcassonne Big Box 3'
+p633
+aS'Carcassonne Big Box 4'
+p634
+aS'Carcassonne Big Box 5'
+p635
+aS'Carcassonne Big Box 6'
+p636
+aVCarcassonne inklusive Händler & Baumeister
+p637
+aS'Carcassonne Limited Edition'
+p638
+aV\u041a\u0430\u0440\u043a\u0430\u0441\u0441\u043e\u043d: \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u041f\u043e\u0434\u0430\u0440\u043e\u043a
+p639
+aV\u041a\u0430\u0440\u043a\u0430\u0441\u0441\u043e\u043d: \u041f\u0440\u0435\u0434\u043c\u0435\u0441\u0442\u044c\u044f \u0438 \u043e\u0431\u0438\u0442\u0430\u0442\u0435\u043b\u0438
+p640
+asg11
+I2
+sS'boardgamemechanic'
+p641
+(lp642
+S'Area Control / Area Influence'
+p643
+aS'Set Collection'
+p644
+aS'Tile Placement'
+p645
+asS'boardgameexpansion'
+p646
+(lp647
+S'Merchants (Fan expansion for Carcassonne: Traders & Builders)'
+p648
+aS'Carcassonne'
+p649
+aS'Carcassonne Big Box 4'
+p650
+aS'Carcassonne: 10 Year Special Edition'
+p651
+aS'Carcassonne: Wheel of Fortune'
+p652
+asg35
+I6
+sg36
+S'3'
+p653
+sS'boardgameartist'
+p654
+(lp655
+VDoris Matthäus
+p656
+aVAnne Pätzke
+p657
+aS'Chris Quilliams'
+p658
+aVKlaus-Jürgen Wrede
+p659
+asS'boardgamepublisher'
+p660
+(lp661
+VHans im Glück
+p662
+aS'999 Games'
+p663
+aS'Albi'
+p664
+aS'Bard Centrum Gier'
+p665
+aS'Bergsala Enigma'
+p666
+aS'Brain Games'
+p667
+aS'cutia.ro'
+p668
+aS'Devir'
+p669
+aS'Fantasmagoria'
+p670
+aVFilosofia Éditions
+p671
+aS'Giochi Uniti'
+p672
+aVÍsöld ehf.
+p673
+aS'Kaissa Chess & Games'
+p674
+aS'Lautapelit.fi'
+p675
+aS'MINDOK'
+p676
+aS'Piatnik'
+p677
+aS'Rio Grande Games'
+p678
+aS'Venice Connection'
+p679
+aS'Z-Man Games'
+p680
+asg54
+g457
+sg56
+I60
+sS'boardgamefamily'
+p681
+(lp682
+S'Animals: Pigs'
+p683
+aS'Carcassonne'
+p684
+aS'Country: France'
+p685
+asg61
+I60
+sS'boardgamecategory'
+p686
+(lp687
+S'City Building'
+p688
+aS'Expansion for Base-game'
+p689
+aS'Medieval'
+p690
+aS'Territory Building'
+p691
+asa(dp692
+S'boardgamedesigner'
+p693
+(lp694
+VKlaus-Jürgen Wrede
+p695
+asg5
+g6
+(S'<name sortindex="1">Carcassonne: Expansion 3 &#8211; The Princess &amp; The Dragon</name>'
+p696
+tp697
+Rp698
+sg10
+I60
+sS'boardgamecompilation'
+p699
+(lp700
+S'Carcassonne Big Box'
+p701
+aS'Carcassonne Big Box 2'
+p702
+aS'Carcassonne Big Box 3'
+p703
+aV\u041a\u0430\u0440\u043a\u0430\u0441\u0441\u043e\u043d: \u0414\u0432\u043e\u0440\u044f\u043d\u0435 \u0438 \u0411\u0430\u0448\u043d\u0438
+p704
+asg11
+I2
+sS'boardgamemechanic'
+p705
+(lp706
+S'Area Control / Area Influence'
+p707
+aS'Tile Placement'
+p708
+asS'boardgameexpansion'
+p709
+(lp710
+S'Carcassonne'
+p711
+aS'Carcassonne Big Box 4'
+p712
+aS'Carcassonne Big Box 5'
+p713
+aS'Carcassonne: 10 Year Special Edition'
+p714
+aS'Carcassonne: Wheel of Fortune'
+p715
+asg35
+I6
+sg36
+g653
+sS'boardgameartist'
+p716
+(lp717
+VDoris Matthäus
+p718
+aVAnne Pätzke
+p719
+aS'Chris Quilliams'
+p720
+aVKlaus-Jürgen Wrede
+p721
+asS'boardgamepublisher'
+p722
+(lp723
+VHans im Glück
+p724
+aS'999 Games'
+p725
+aS'Albi'
+p726
+aS'Bard Centrum Gier'
+p727
+aS'Bergsala Enigma'
+p728
+aS'cutia.ro'
+p729
+aS'Devir'
+p730
+aS'Fantasmagoria'
+p731
+aVFilosofia Éditions
+p732
+aS'Giochi Uniti'
+p733
+aS'Kaissa Chess & Games'
+p734
+aS'Lautapelit.fi'
+p735
+aS'MINDOK'
+p736
+aS'Piatnik'
+p737
+aS'Rio Grande Games'
+p738
+aS'Venice Connection'
+p739
+aS'Z-Man Games'
+p740
+asg54
+g457
+sg56
+I60
+sS'boardgamefamily'
+p741
+(lp742
+S'Animals: Dragons'
+p743
+aS'Carcassonne'
+p744
+asg61
+I60
+sS'boardgamecategory'
+p745
+(lp746
+S'City Building'
+p747
+aS'Expansion for Base-game'
+p748
+aS'Fantasy'
+p749
+aS'Medieval'
+p750
+aS'Territory Building'
+p751
+asa(dp752
+S'boardgamedesigner'
+p753
+(lp754
+VKlaus-Jürgen Wrede
+p755
+asg5
+g6
+(S'<name sortindex="1">Carcassonne: Expansion 4 &#8211; The Tower</name>'
+p756
+tp757
+Rp758
+sg10
+I60
+sS'boardgamecompilation'
+p759
+(lp760
+S'Carcassonne Big Box'
+p761
+aV\u041a\u0430\u0440\u043a\u0430\u0441\u0441\u043e\u043d: \u0414\u0432\u043e\u0440\u044f\u043d\u0435 \u0438 \u0411\u0430\u0448\u043d\u0438
+p762
+asg11
+I2
+sS'boardgamemechanic'
+p763
+(lp764
+S'Area Control / Area Influence'
+p765
+aS'Tile Placement'
+p766
+asS'boardgameexpansion'
+p767
+(lp768
+S'Carcassonne'
+p769
+aS'Carcassonne: Wheel of Fortune'
+p770
+asg35
+I6
+sg36
+g653
+sS'boardgameartist'
+p771
+(lp772
+VDoris Matthäus
+p773
+aVAnne Pätzke
+p774
+aS'Chris Quilliams'
+p775
+asS'boardgamepublisher'
+p776
+(lp777
+VHans im Glück
+p778
+aS'999 Games'
+p779
+aS'Albi'
+p780
+aS'Bergsala Enigma'
+p781
+aS'Devir'
+p782
+aS'Fantasmagoria'
+p783
+aVFilosofia Éditions
+p784
+aS'Giochi Uniti'
+p785
+aS'Lautapelit.fi'
+p786
+aS'MINDOK'
+p787
+aS'Piatnik'
+p788
+aS'Rio Grande Games'
+p789
+aS'Schmidt Spiele'
+p790
+aS'Venice Connection'
+p791
+aS'Z-Man Games'
+p792
+asg54
+g457
+sg56
+I60
+sS'boardgamefamily'
+p793
+(lp794
+S'Carcassonne'
+p795
+asg61
+I60
+sS'boardgamecategory'
+p796
+(lp797
+S'City Building'
+p798
+aS'Expansion for Base-game'
+p799
+aS'Medieval'
+p800
+aS'Territory Building'
+p801
+asa(dp802
+S'boardgamedesigner'
+p803
+(lp804
+S'Klaus Teuber'
+p805
+asg5
+g6
+(S'<name sortindex="1">Catan</name>'
+p806
+tp807
+Rp808
+sg10
+I120
+sS'boardgamecompilation'
+p809
+(lp810
+S"CATAN 3D Collector's Edition"
+p811
+aS'Catan: Big Box'
+p812
+aS'Catan: Big Box'
+p813
+aS'The Settlers of Catan: 15th Anniversary Wood Edition'
+p814
+asg11
+I3
+sS'boardgamemechanic'
+p815
+(lp816
+S'Dice Rolling'
+p817
+aS'Hand Management'
+p818
+aS'Modular Board'
+p819
+aS'Route/Network Building'
+p820
+aS'Trading'
+p821
+asS'boardgameexpansion'
+p822
+(lp823
+S'20 Jahre Darmstadt Spielt'
+p824
+aS'Brettspiel Adventskalender 2015'
+p825
+aS'Catakatoa'
+p826
+aS'Catan Austria / Wien meets Catan'
+p827
+aS'Catan Geographies: Austria'
+p828
+aS'Catan Geographies: Bayern Edition'
+p829
+aS'Catan Geographies: Corsica'
+p830
+aS'Catan Geographies: Georgia'
+p831
+aS'Catan Geographies: Hawaii'
+p832
+aS'Catan Geographies: Kennessee'
+p833
+aS'Catan Geographies: Mallorca'
+p834
+aVCatan Geographies: North Rhine \u2013 Westphalia
+p835
+aS'Catan Geographies: Settlers of Hesse'
+p836
+aVCatan Länderszenarien: Polen
+p837
+aVCatan Länderszenarien: Rickshaw Run
+p838
+aS'Catan Scenarios: Big Game Big Honor'
+p839
+aS'Catan Scenarios: Catanimals'
+p840
+aS'Catan Scenarios: Frenemies'
+p841
+aS'Catan Scenarios: Helpers of Catan'
+p842
+aS'Catan Scenarios: Oil Springs'
+p843
+aS'Catan Scenarios: Santa Claus'
+p844
+aS'Catan World Championship Berlin 2014 Special'
+p845
+aS'Catan: 5-6 Player Extension'
+p846
+aS'Catan: 999 Games 25 jaar Expansion'
+p847
+aS'Catan: Catan Day 2015 Exclusive Expansion'
+p848
+aS'Catan: Cities & Knights'
+p849
+aVCatan: Cities & Knights \u2013 5-6 Player Extension
+p850
+aS'Catan: Delmarva'
+p851
+aS'Catan: Event Cards'
+p852
+aS'Catan: Explorers & Pirates'
+p853
+aVCatan: Explorers & Pirates \u2013 5-6 Player Extension
+p854
+aS'Catan: Indiana & Ohio'
+p855
+aS'Catan: New England'
+p856
+aS'Catan: New York'
+p857
+aS'Catan: Penn/Jersey'
+p858
+aS'Catan: Playmat Desert'
+p859
+aS'Catan: Playmat Gold'
+p860
+aS'Catan: Seafarers'
+p861
+aVCatan: Seafarers Scenario \u2013 Legend of the Sea Robbers
+p862
+aVCatan: Seafarers \u2013 5-6 Player Extension
+p863
+aVCatan: Seefahrer \u2013 20 Jahre Jubiläums-Edition
+p864
+aS'Catan: The Carolinas'
+p865
+aS'Catan: Traders & Barbarians'
+p866
+aVCatan: Traders & Barbarians \u2013 5-6 Player Extension
+p867
+aS'Catan: World Championship Durango 2016 Special'
+p868
+aS'Der Hafenmeister'
+p869
+aS'Heroes & Capitols (fan expansion for Settlers of Catan)'
+p870
+aS'Hexen, Zauberer & Drachen (Fan expansion to Catan: Cities and Knights)'
+p871
+aS'Katani  pankur'
+p872
+aS'Kirche, Glaube & Reformation (Fan expansion to Catan: Cities and Knights)'
+p873
+aS'De Kolonisten van Catan: De Diamanten'
+p874
+aS'De Kolonisten van Catan: De drie Handelsteden van Noord-Nederland'
+p875
+aVDe Kolonisten van Catan: De Koloniën
+p876
+aS'De Kolonisten van Catan: De Specialisten'
+p877
+aS'De Kolonisten van Catan: De Wereldwonderen'
+p878
+aS'De Kolonisten van Catan: De Woestijnruiters'
+p879
+aS'De Kolonisten van Catan: Het Grote Kanaal'
+p880
+aS'Mayfair Game Variants & Mini-Expansions Set #1'
+p881
+aS'Die Pioniere (fan expansion for The Settlers of Catan)'
+p882
+aVSaggsen-Gadan: De säggs'schn Siedler / Catan-OFFENSIVE in Chemnitz
+p883
+aS'The Settlers of Catan: The Fishermen of Catan'
+p884
+aS'The Settlers of Catan: The Great River'
+p885
+aS'Settlers of New Catan (and extra modules)'
+p886
+aVDie Siedler von Catan: Atlantis \u2013 Szenarien & Varianten
+p887
+aS'Die Siedler von Catan: Das Buch zum Spielen'
+p888
+aS'Die Siedler von Catan: Der Schokoladenmarkt'
+p889
+aVDie Siedler von Catan: Die große Karawane
+p890
+aS'Die Siedler von Catan: Hispania Edition'
+p891
+aS'Die Siedler von Catan: Historische Szenarien'
+p892
+aS'Die Siedler von Catan: Historische Szenarien II'
+p893
+aS'Die Siedler von Catan: Hochzeitsturm'
+p894
+aS'Die Siedler von Catan: Renaissance in der Steiermark & Burgbau auf Chaffenberch'
+p895
+aS'Die Siedler von Catan: Rincewind und der Tourist  /  Die Gilden von Ankh-Morpork'
+p896
+aVDie Siedler von Catan: Schätze, Drachen & Entdecker
+p897
+aVDie Siedler von Catan: Thüringen Edition
+p898
+aS'Die Siedler von Luxemburg'
+p899
+aS'World Wonders (fan expansion to Catan)'
+p900
+asg35
+I4
+sS'boardgameimplementation'
+p901
+(lp902
+S"CATAN 3D Collector's Edition"
+p903
+aS'Catan Geographies: Germany'
+p904
+aVCatan Histories: Settlers of America \u2013 Trails to Rails
+p905
+aS'Catan: Ancient Egypt'
+p906
+aS'Catan: Big Box'
+p907
+aS'Catan: Big Game Event Kit'
+p908
+aS'Catan: Portable Edition'
+p909
+aVCatan: Traveler \u2013 Compact Edition
+p910
+aVA Game of Thrones: Catan \u2013 Brotherhood of the Watch
+p911
+aS'De Kolonisten van de Lage Landen'
+p912
+aS'The Settlers of Canaan'
+p913
+aS'The Settlers of the Stone Age'
+p914
+aS'The Settlers of Zarahemla'
+p915
+aS'Die Siedler von Catan: Junior'
+p916
+aS'Simply Catan'
+p917
+aS'Star Trek: Catan'
+p918
+aS'Starfarers of Catan'
+p919
+asg36
+g37
+sS'boardgameartist'
+p920
+(lp921
+S'Volkan Baga'
+p922
+aS'Tanja Donner'
+p923
+aS'Pete Fenlon'
+p924
+aS'Jason Hawkins'
+p925
+aS'Michaela Kienle'
+p926
+aS'Harald Lieske'
+p927
+aS'Michael Menzel'
+p928
+aS'Marion Pott'
+p929
+aS'Matt Schwabel'
+p930
+aS'Franz Vohwinkel'
+p931
+aS'Stephen Graham Walsh'
+p932
+asS'boardgamepublisher'
+p933
+(lp934
+S'KOSMOS'
+p935
+aS'999 Games'
+p936
+aS'Albi'
+p937
+aS'Astrel Games'
+p938
+aS'Bergsala Enigma'
+p939
+aS'Brain Games'
+p940
+aS'Capcom Co., Ltd.'
+p941
+aS'Catan Studio'
+p942
+aS'Competo / Marektoy'
+p943
+aS'danspil'
+p944
+aS'Descartes Editeur'
+p945
+aS'Devir'
+p946
+aS'Dexy Co'
+p947
+aS'Eurogames'
+p948
+aVFilosofia Éditions
+p949
+aS'Galakta'
+p950
+aS'Giochi Uniti'
+p951
+aS'GP Games'
+p952
+aS'Grow Jogos e Brinquedos'
+p953
+aS'HaKubia'
+p954
+aS'Hanayama'
+p955
+aS'Hobby World'
+p956
+aS'Ideal Board Games'
+p957
+aS'IntelliGames.BG'
+p958
+aVÍsöld ehf.
+p959
+aS'Kaissa Chess & Games'
+p960
+aS'Korea Boardgames co., Ltd.'
+p961
+aS'L&M Games'
+p962
+aS'Laser plus'
+p963
+aS'Lautapelit.fi'
+p964
+aS'Logojogos'
+p965
+aS'Mayfair Games'
+p966
+aS'Ninive Games'
+p967
+aS'Piatnik'
+p968
+aS'Smart Ltd'
+p969
+aS'Stupor Mundi'
+p970
+aS'Swan Panasia Co., Ltd.'
+p971
+aS'Tilsit'
+p972
+aS'Top Toys'
+p973
+aS'TRY SOFT'
+p974
+asg54
+g457
+sg56
+I120
+sS'boardgamefamily'
+p975
+(lp976
+S'Catan'
+p977
+aS'Promotional Board Games'
+p978
+asg61
+I60
+sS'boardgamecategory'
+p979
+(lp980
+S'Negotiation'
+p981
+asa(dp982
+S'boardgamedesigner'
+p983
+(lp984
+S'Klaus Teuber'
+p985
+asg5
+g6
+(S'<name sortindex="1">Catan: 5-6 Player Extension</name>'
+p986
+tp987
+Rp988
+sg10
+I120
+sS'boardgamecompilation'
+p989
+(lp990
+S'Catan: Big Box'
+p991
+aS'The Settlers of Catan: 15th Anniversary Wood Edition'
+p992
+asg11
+I5
+sS'boardgamemechanic'
+p993
+(lp994
+S'Dice Rolling'
+p995
+aS'Hand Management'
+p996
+aS'Memory'
+p997
+aS'Modular Board'
+p998
+aS'Route/Network Building'
+p999
+aS'Trading'
+p1000
+asS'boardgameexpansion'
+p1001
+(lp1002
+S'Catan Geographies: Hawaii'
+p1003
+aS'Catan Scenarios: Frenemies'
+p1004
+aS'Catan Scenarios: Helpers of Catan'
+p1005
+aS'Catan Scenarios: Oil Springs'
+p1006
+aS'Catan'
+p1007
+asg35
+I6
+sg36
+S'5'
+p1008
+sS'boardgameartist'
+p1009
+(lp1010
+S'Volkan Baga'
+p1011
+aS'Tanja Donner'
+p1012
+aS'Harald Lieske'
+p1013
+aS'Michael Menzel'
+p1014
+aS'Marion Pott'
+p1015
+aS'Klaus Teuber'
+p1016
+aS'Stephen Graham Walsh'
+p1017
+asS'boardgamepublisher'
+p1018
+(lp1019
+S'KOSMOS'
+p1020
+aS'999 Games'
+p1021
+aS'Albi'
+p1022
+aS'Bergsala Enigma'
+p1023
+aS'danspil'
+p1024
+aS'Devir'
+p1025
+aVFilosofia Éditions
+p1026
+aS'Galakta'
+p1027
+aS'Giochi Uniti'
+p1028
+aS'GP Games'
+p1029
+aS'Grow Jogos e Brinquedos'
+p1030
+aS'HaKubia'
+p1031
+aS'Hobby World'
+p1032
+aS'Ideal Board Games'
+p1033
+aS'IntelliGames.BG'
+p1034
+aVÍsöld ehf.
+p1035
+aS'Kaissa Chess & Games'
+p1036
+aS'Laser plus'
+p1037
+aS'Lautapelit.fi'
+p1038
+aS'Mayfair Games'
+p1039
+aS'Piatnik'
+p1040
+aS'Tilsit'
+p1041
+asg54
+S'10'
+p1042
+sg56
+I120
+sS'boardgamefamily'
+p1043
+(lp1044
+S'Catan'
+p1045
+asg61
+I120
+sS'boardgamecategory'
+p1046
+(lp1047
+S'Expansion for Base-game'
+p1048
+aS'Negotiation'
+p1049
+asa(dp1050
+S'boardgamedesigner'
+p1051
+(lp1052
+S'(Uncredited)'
+p1053
+asS'boardgameintegration'
+p1054
+(lp1055
+S'CHUCK-A-CHESS'
+p1056
+aS'Colour Chess + Lure'
+p1057
+asg5
+g6
+(S'<name sortindex="1">Chess</name>'
+p1058
+tp1059
+Rp1060
+sg10
+I60
+sS'boardgamecompilation'
+p1061
+(lp1062
+S'Ancient Conflict Treasure Chest'
+p1063
+aS'Apocalypse Pack'
+p1064
+aS'The Boardgame Book'
+p1065
+aS'Chess Empire'
+p1066
+aS'Colour Chess + Lure'
+p1067
+aS'Giant 30 Game Cube'
+p1068
+aS'Miscellaneous Game Compilation'
+p1069
+aS"Pirates of the Caribbean Dead Man's Chest: 3 in 1 Pirate Games Collector's Edition"
+p1070
+aS"Seizer's Chess"
+p1071
+asg11
+I2
+sS'boardgamemechanic'
+p1072
+(lp1073
+S'Grid Movement'
+p1074
+asS'boardgameexpansion'
+p1075
+(lp1076
+S'Beguile: PaWN The Enemy'
+p1077
+aS'Castle-Mate'
+p1078
+aS'Chess Empire'
+p1079
+aS'Chess Mixer'
+p1080
+aS'Economy Chess'
+p1081
+aS'Epic Chess'
+p1082
+aS'Etchessera'
+p1083
+aS'Fairy Tale Chess'
+p1084
+aS'Heretik Chess'
+p1085
+aS'Kingdom of Elbrandt'
+p1086
+aS'Knightmare Chess'
+p1087
+aS'Knightmare Chess (third edition)'
+p1088
+aS'Knightmare Chess 2'
+p1089
+aS'Meta Chess'
+p1090
+aS'Rogue Chess'
+p1091
+aS'Royal Chess'
+p1092
+aS'Spell Chess: an expansion to Chess'
+p1093
+asg35
+I2
+sg36
+g86
+sS'boardgameartist'
+p1094
+(lp1095
+S'(Uncredited)'
+p1096
+aS'Paolo Chiari'
+p1097
+aVHonoré Daumier
+p1098
+aS'F. Lanier Graham'
+p1099
+aS'Rafael Guigou'
+p1100
+aS'Karim Rashid'
+p1101
+aVNéstor Romeral Andrés
+p1102
+aS'J. R. R. Tolkien'
+p1103
+asS'boardgamepublisher'
+p1104
+(lp1105
+S'(Public Domain)'
+p1106
+aS'(Unknown)'
+p1107
+aS'3M'
+p1108
+aS'Adams Brothers & Shardlow Ltd.'
+p1109
+aS'Air France'
+p1110
+aS'Allied Van Lines'
+p1111
+aS'Arrco Playing Card Co.'
+p1112
+aS'Bar-Zim'
+p1113
+aS'Bayerwald Spiele'
+p1114
+aS'Bello Games New York, Inc.'
+p1115
+aS"Berwick's Toy Co. Ltd."
+p1116
+aS'Big League Promotions Corp.'
+p1117
+aS'Blatz'
+p1118
+aS'Bozart Toys'
+p1119
+aS'Cardinal'
+p1120
+aVà la carte AG
+p1121
+aS'Cayro Juegos'
+p1122
+aS'CCI India'
+p1123
+aS'Chad Valley Co Ltd.'
+p1124
+aS'Challenge Master Game Co Ltd'
+p1125
+aS'Character Games LTD'
+p1126
+aS'CHH Games'
+p1127
+aS'Chupa Chups'
+p1128
+aS'Classic Games'
+p1129
+aS'Coca-Cola'
+p1130
+aS'Colombine BVBA'
+p1131
+aS'Creative Crafthouse'
+p1132
+aS'Creative Educational Aids Pvt. Ltd.'
+p1133
+aS'Crisloid'
+p1134
+aS'Dal Negro'
+p1135
+aS'Darmon Diffusion'
+p1136
+aS'David Westnedge'
+p1137
+aS'De La Rue'
+p1138
+aS'DeAgostini'
+p1139
+aS'Deuce'
+p1140
+aS'Dilemma Games'
+p1141
+aS'Dourios'
+p1142
+aS'DreamWorks'
+p1143
+aS'Dynamic Games / Dynamic Design Industries'
+p1144
+aS'E.S. Lowe'
+p1145
+aS'Efko'
+p1146
+aS'EnumeroCribbageBoards'
+p1147
+aS'Epoch Playthings'
+p1148
+aS'Estrela'
+p1149
+aS'Excalibur Electronics'
+p1150
+aS'F. W. Woolworth Company'
+p1151
+aS'Fame Products'
+p1152
+aS'Fifth Avenue Crystal Ltd.'
+p1153
+aS'Friendly Games, Inc.'
+p1154
+aS'Fundex'
+p1155
+aS'Gibsons Games'
+p1156
+aS'Golden'
+p1157
+aS'Guigou'
+p1158
+aS'H. Baron'
+p1159
+aS'Hartung-Spiele'
+p1160
+aS'Hasbro'
+p1161
+aVHausemann & Hötte N.V.
+p1162
+aS'Hexagames (I)'
+p1163
+aS'Holdson'
+p1164
+aS'Homas Spelen'
+p1165
+aS'House Martin'
+p1166
+aS'House of Marbles'
+p1167
+aS'House of Staunton'
+p1168
+aS'Imaginarium'
+p1169
+aS'innovative KIDS'
+p1170
+aS'Inovac Rima SA'
+p1171
+aS'J & L Randall, Ltd.'
+p1172
+aS'John Jaques of London'
+p1173
+aS'Jumbo'
+p1174
+aS'K & C Ltd'
+p1175
+aS'K.E. Mathiasen A/S'
+p1176
+aS'King International'
+p1177
+aS'Kingsway Inc'
+p1178
+aS'Kitfix Swallow Group'
+p1179
+aS'Klopffleisch'
+p1180
+aVL. P. Septímio
+p1181
+aS'Lagoon Games'
+p1182
+aS'Lardy International'
+p1183
+aS'LEGO'
+p1184
+aS'Lindop (William Lindop LTD)'
+p1185
+aS'Longfield Games'
+p1186
+aS'Ludens Planet'
+p1187
+aS'Magnetic Poetry Inc'
+p1188
+aS'Majora'
+p1189
+aVMarigó
+p1190
+aS'The Mark of Westminster'
+p1191
+aS'Masters Games'
+p1192
+aS'Mattel'
+p1193
+aS'MB Jeux'
+p1194
+aS'MB Spellen'
+p1195
+aS'Melissa & Doug'
+p1196
+aS'Milton Bradley'
+p1197
+aS'Monkey Pod Games'
+p1198
+aS'The Museum of Modern Art (MoMA)'
+p1199
+aS'Neroulia'
+p1200
+aS'nestorgames'
+p1201
+aS'Noris Spiele'
+p1202
+aS'Oriental Trading Company'
+p1203
+aS'Pacific Game Company'
+p1204
+aS'Parker Brothers'
+p1205
+aS'Patch Products'
+p1206
+aS'Paul Lamond Games Ltd'
+p1207
+aS'Pavilion'
+p1208
+aS'Peri Spiele'
+p1209
+aS'Piatnik'
+p1210
+aS'Piet Hein A/S'
+p1211
+aS'Pin International'
+p1212
+aS'Pleasantime Games'
+p1213
+aS'Poptoy'
+p1214
+aS'Pressman Toy Corp.'
+p1215
+aS'Ramsons'
+p1216
+aS'Research Games, Inc. / Athol / RGI / ARC'
+p1217
+aS'Revanche Spelen'
+p1218
+aS'Robin and Nell Dale'
+p1219
+aS'Rong Fa'
+p1220
+aS'Sababa Toys, Inc.'
+p1221
+aS'Schmidt Spiele'
+p1222
+aS'Selchow & Righter'
+p1223
+aS'Si-Si-Spiele'
+p1224
+aS'Sophisticated Games'
+p1225
+aS"Spear's Games"
+p1226
+aS'Spencer Gifts'
+p1227
+aS'Sterling Games'
+p1228
+aS'Studio Anne Carlton (SAC)'
+p1229
+aS'Sunrise Chess & Games'
+p1230
+aS'Super Accord'
+p1231
+aVSøstrene Grene
+p1232
+aS'Tactic'
+p1233
+aS'Tesco'
+p1234
+aS'Thomas Salter Ltd'
+p1235
+aS'Toy Brokers Ltd'
+p1236
+aS'U3'
+p1237
+aS'USAopoly'
+p1238
+aS'Vilac'
+p1239
+aS'Volume-One Products'
+p1240
+aS"Waddington's Games, Inc."
+p1241
+aS'Walt Disney Productions'
+p1242
+aVW\u0119giel
+p1243
+aS'Western Publishing Company'
+p1244
+aS'Westside Fun Games'
+p1245
+aS'WHSmith'
+p1246
+aS'Wicked Vision'
+p1247
+aS'Wiley Publishing, Inc.'
+p1248
+aS'Winning Moves Games (USA)'
+p1249
+aS'Wizards of the Coast'
+p1250
+aS'Wm F. Drueke & Sons, Inc.'
+p1251
+aS'Wood Expressions'
+p1252
+aS'WorldWise Imports, LLC'
+p1253
+aV\u039f\u03b4\u03cd\u03c3\u03c3\u03b5\u03b9\u03b1
+p1254
+asg54
+g457
+sg56
+I60
+sS'boardgamefamily'
+p1255
+(lp1256
+S'Chess Games'
+p1257
+aS'Combinatorial'
+p1258
+aS'3M Bookshelf Series'
+p1259
+aS'Cartoons: Hanna-Barbera'
+p1260
+aS'Characters: Peanuts'
+p1261
+aS'Games for Dummies'
+p1262
+aS'GoPlay'
+p1263
+aS'Harry Potter'
+p1264
+aS'Movies: Shrek'
+p1265
+aS'Nintendo'
+p1266
+aS'Promotional Board Games'
+p1267
+aS'Star Wars'
+p1268
+aS'Super Mario Bros.'
+p1269
+aS"Take 'N' Play Anywhere"
+p1270
+aS'Transformers'
+p1271
+aS'TV Series: Sesame Street'
+p1272
+aS'TV Series: The Flintstones'
+p1273
+aS'TV Series: The Simpsons'
+p1274
+aS'Universal Studios Monsters'
+p1275
+asg61
+I60
+sS'boardgamecategory'
+p1276
+(lp1277
+S'Abstract Strategy'
+p1278
+asa(dp1279
+S'boardgamedesigner'
+p1280
+(lp1281
+S'Bruno Faidutti'
+p1282
+asg5
+g6
+(S'<name sortindex="1">Citadels</name>'
+p1283
+tp1284
+Rp1285
+sg10
+I60
+sS'boardgamecompilation'
+p1286
+(lp1287
+S'Ohne Furcht und Adel'
+p1288
+asg11
+I2
+sS'boardgamemechanic'
+p1289
+(lp1290
+S'Card Drafting'
+p1291
+aS'Set Collection'
+p1292
+aS'Variable Phase Order'
+p1293
+aS'Variable Player Powers'
+p1294
+asS'boardgameexpansion'
+p1295
+(lp1296
+S'Citadels:  The Dark City'
+p1297
+asg35
+I8
+sS'boardgameimplementation'
+p1298
+(lp1299
+S'Citadels'
+p1300
+aS'Ohne Furcht und Adel'
+p1301
+asg36
+g1008
+sS'boardgameartist'
+p1302
+(lp1303
+S'Cyrille Daujean'
+p1304
+aS'Julien Delval'
+p1305
+aS'Jesper Ejsing'
+p1306
+aS'Bruno Faidutti'
+p1307
+aS'Didier Graffet'
+p1308
+aS'Bjarne Hansen'
+p1309
+aS'Darrell Hardy'
+p1310
+aS'Florence Magnin'
+p1311
+aS'Jean-Louis Mourier'
+p1312
+aS'Scott Nicely'
+p1313
+aS'Christian T. Petersen'
+p1314
+aS'Brian Schomburg'
+p1315
+aS'Richard Spicer'
+p1316
+asS'boardgamepublisher'
+p1317
+(lp1318
+VHans im Glück
+p1319
+aS'(Unknown)'
+p1320
+aS'999 Games'
+p1321
+aS'Arclight'
+p1322
+aS'Asmodee'
+p1323
+aS'Bergsala Enigma'
+p1324
+aS'Brain Games'
+p1325
+aS'cutia.ro'
+p1326
+aS'Delta Vision Publishing'
+p1327
+aS'E L & M Productions'
+p1328
+aS'Edge Entertainment'
+p1329
+aS'Fantasiapelit'
+p1330
+aS'Fantasy Flight Games'
+p1331
+aS'Fantasy Shop'
+p1332
+aS'Galakta'
+p1333
+aVGalápagos Jogos
+p1334
+aS'Giochi Uniti'
+p1335
+aS'Hobby World'
+p1336
+aS'KADABRA'
+p1337
+aS'Kaissa Chess & Games'
+p1338
+aS'Korea Boardgames co., Ltd.'
+p1339
+aS'Laser plus'
+p1340
+aS'Midgaard Games'
+p1341
+aS'Millenium'
+p1342
+aS'MINDOK'
+p1343
+aS'MultiSim'
+p1344
+aS'Nexus'
+p1345
+aS'Schmidt Spiele'
+p1346
+aS'Silver Stars Publishing'
+p1347
+aS'Smart Ltd'
+p1348
+aS'Swan Panasia Co., Ltd.'
+p1349
+asg54
+S'10'
+p1350
+sg56
+I60
+sS'boardgamefamily'
+p1351
+(lp1352
+S'Fantasy Flight Silver Line Games'
+p1353
+aS'Tableau Building'
+p1354
+asg61
+I20
+sS'boardgamecategory'
+p1355
+(lp1356
+S'Bluffing'
+p1357
+aS'Card Game'
+p1358
+aS'City Building'
+p1359
+aS'Fantasy'
+p1360
+aS'Medieval'
+p1361
+asa(dp1362
+S'boardgamedesigner'
+p1363
+(lp1364
+VVlaada Chvátil
+p1365
+asS'boardgameintegration'
+p1366
+(lp1367
+S'Codenames Duet'
+p1368
+aS'Codenames: Deep Undercover'
+p1369
+aS'Codenames: Disney Family Edition'
+p1370
+aS'Codenames: Marvel'
+p1371
+aS'Codenames: Pictures'
+p1372
+asg5
+g6
+(S'<name sortindex="1">Codenames</name>'
+p1373
+tp1374
+Rp1375
+sg10
+I15
+sg11
+I2
+sS'boardgamemechanic'
+p1376
+(lp1377
+S'Memory'
+p1378
+aS'Partnerships'
+p1379
+aS'Pattern Recognition'
+p1380
+aS'Press Your Luck'
+p1381
+asS'boardgameexpansion'
+p1382
+(lp1383
+S'Codenames: Authors & Games'
+p1384
+aVCodenames: Bonus Pack \u2013 Board Gaming (English)
+p1385
+aVCodenames: Bonus Pack \u2013 Board Games (German)
+p1386
+aVCodenames: Bonus Pack \u2013 CGE Games
+p1387
+aVCodenames: Bonus Pack \u2013 Weihnachten
+p1388
+aS'Codenames: Bonuskaarten 2016'
+p1389
+aVCodenames: Cartes promo \u2013 Personnalités
+p1390
+aS'Deutscher Spielepreis 2016 Goodie Box'
+p1391
+aVFed\u0151nevek: Magyar bónusz csomag
+p1392
+aS'Tajniacy: Nowi Agenci'
+p1393
+aS'Tajniacy: Sami Nieswoi'
+p1394
+asg35
+I8
+sg36
+g391
+sS'boardgameartist'
+p1395
+(lp1396
+VStéphane Gantiez
+p1397
+aVTomá\u0161 Ku\u010derovský
+p1398
+asS'boardgamepublisher'
+p1399
+(lp1400
+S'Czech Games Edition'
+p1401
+aS'MINDOK'
+p1402
+aS'Bergsala Enigma'
+p1403
+aS'Brain Games'
+p1404
+aS'Cranio Creations'
+p1405
+aS'Cuaca Cerah Games'
+p1406
+aS'Devir'
+p1407
+aS'DiceTree Games'
+p1408
+aS'Fantasmagoria'
+p1409
+aS'GaGa Games'
+p1410
+aVGém Klub Kft.
+p1411
+aS'Golden Egg Games'
+p1412
+aS'Heidelberger Spieleverlag'
+p1413
+aS'Hobby Japan'
+p1414
+aS'IELLO'
+p1415
+aS'Kaissa Chess & Games'
+p1416
+aS'Lex Games'
+p1417
+aS'More Fun Co., Ltd.'
+p1418
+aS'One Moment Games'
+p1419
+aS'Pridemage Games'
+p1420
+aS'Rebel'
+p1421
+aS'TWOPLUS Games'
+p1422
+aS'White Goblin Games'
+p1423
+asg54
+S'10'
+p1424
+sg56
+I15
+sS'boardgamefamily'
+p1425
+(lp1426
+S'Codenames'
+p1427
+asg61
+I15
+sS'boardgamecategory'
+p1428
+(lp1429
+S'Card Game'
+p1430
+aS'Deduction'
+p1431
+aS'Party Game'
+p1432
+aS'Spies/Secret Agents'
+p1433
+aS'Word Game'
+p1434
+asa(dp1435
+S'boardgamedesigner'
+p1436
+(lp1437
+S'(Uncredited)'
+p1438
+asg5
+g6
+(S'<name sortindex="1">Connect 4 (Revised Edition)</name>'
+p1439
+tp1440
+Rp1441
+sg10
+I15
+sg11
+I2
+sS'boardgamemechanic'
+p1442
+(lp1443
+S'Pattern Building'
+p1444
+aS'Pattern Recognition'
+p1445
+asg35
+I2
+sg36
+g86
+sS'boardgameartist'
+p1446
+(lp1447
+S'(Uncredited)'
+p1448
+asS'boardgamepublisher'
+p1449
+(lp1450
+S'Hasbro'
+p1451
+aS'Milton Bradley'
+p1452
+asg54
+g653
+sg56
+I15
+sS'boardgamefamily'
+p1453
+(lp1454
+S'3D Games'
+p1455
+aS'Connect 4'
+p1456
+aS'n in a row'
+p1457
+asg61
+I15
+sS'boardgamecategory'
+p1458
+(lp1459
+S'Abstract Strategy'
+p1460
+aS"Children's Game"
+p1461
+asa(dp1462
+S'boardgamedesigner'
+p1463
+(lp1464
+S'Rikki Tahta'
+p1465
+asg5
+g6
+(S'<name sortindex="1">Coup</name>'
+p1466
+tp1467
+Rp1468
+sg10
+I15
+sS'boardgamecompilation'
+p1469
+(lp1470
+S'Coup: Deluxe Edition'
+p1471
+asg11
+I2
+sS'boardgamemechanic'
+p1472
+(lp1473
+S'Memory'
+p1474
+aS'Player Elimination'
+p1475
+aS'Take That'
+p1476
+aS'Variable Player Powers'
+p1477
+asS'boardgameexpansion'
+p1478
+(lp1479
+S'Coup:  Inquisitor Promo'
+p1480
+aS'Coup: Inquisition'
+p1481
+aS'Coup: Jester and Bureaucrat Promos'
+p1482
+aS'Coup: Reformation'
+p1483
+aS'Coup: Socialist'
+p1484
+aS'Coup: Speculator Promo'
+p1485
+asg35
+I6
+sS'boardgameimplementation'
+p1486
+(lp1487
+S'Complots'
+p1488
+aS'Coup Deluxe:  Mobile Edition'
+p1489
+aS'Coup: Rebellion G54'
+p1490
+asg36
+g1008
+sS'boardgameartist'
+p1491
+(lp1492
+S'Luis Francisco'
+p1493
+aS'Stephanie Gustafsson'
+p1494
+aS'Andrew Higgins'
+p1495
+aS'Alexandr Kiselev'
+p1496
+aS'Tomasz Larek'
+p1497
+aVJarek Noco\u0144
+p1498
+aVGuillermo H. Nuñez
+p1499
+aS'Alejo Vigliani'
+p1500
+aS'Uros Vuckovic'
+p1501
+aS'Weberson Santiago'
+p1502
+asS'boardgamepublisher'
+p1503
+(lp1504
+S'Indie Boards & Cards'
+p1505
+aS'La Mame Games'
+p1506
+aVEl Dragón Azul
+p1507
+aS'Foxgames (Poland)'
+p1508
+aS'FunBox Jogos'
+p1509
+aS'Heidelberger Spieleverlag'
+p1510
+aS'Igrato'
+p1511
+aS'Kaissa Chess & Games'
+p1512
+aS'Mandala Jogos'
+p1513
+aS'NeoTroy Games'
+p1514
+aS'New Games Order, LLC'
+p1515
+aS'REXhry'
+p1516
+aV\u30c6\u30f3\u30c7\u30a4\u30ba\u30b2\u30fc\u30e0\u30ba (Ten Days Games)
+p1517
+aS'Zacatrus'
+p1518
+asg54
+S'10'
+p1519
+sg56
+I15
+sS'boardgamefamily'
+p1520
+(lp1521
+S'Crowdfunding: Kickstarter'
+p1522
+aS'Dystopian Universe'
+p1523
+aS'Postcard Box Games'
+p1524
+asg61
+I15
+sS'boardgamecategory'
+p1525
+(lp1526
+S'Bluffing'
+p1527
+aS'Card Game'
+p1528
+aS'Deduction'
+p1529
+aS'Party Game'
+p1530
+aS'Political'
+p1531
+asa(dp1532
+S'boardgamedesigner'
+p1533
+(lp1534
+S'Jonathan Gilmour'
+p1535
+aS'Isaac Vega'
+p1536
+asS'boardgameintegration'
+p1537
+(lp1538
+S'Dead of Winter: The Long Night'
+p1539
+asg5
+g6
+(S'<name sortindex="1">Dead of Winter: A Crossroads Game</name>'
+p1540
+tp1541
+Rp1542
+sg10
+I210
+sS'boardgamecompilation'
+p1543
+(lp1544
+S'Dead of Winter: Tabletop Edition'
+p1545
+asg11
+I2
+sS'boardgamemechanic'
+p1546
+(lp1547
+S'Action Point Allowance System'
+p1548
+aS'Area Movement'
+p1549
+aS'Co-operative Play'
+p1550
+aS'Dice Rolling'
+p1551
+aS'Hand Management'
+p1552
+aS'Press Your Luck'
+p1553
+aS'Storytelling'
+p1554
+aS'Trading'
+p1555
+aS'Variable Player Powers'
+p1556
+aS'Voting'
+p1557
+asS'boardgameexpansion'
+p1558
+(lp1559
+VDead of Winter: A Crossroads Game \u2013 BGG Crossroads Promo
+p1560
+aS'Dead of Winter: Andrea Smith'
+p1561
+aS'Dead of Winter: Dice Tower Promos'
+p1562
+aS'Dead of Winter: Felicia Day'
+p1563
+aS'Dead of Winter: KD James'
+p1564
+aS'Dead of Winter: Kodiak Colby'
+p1565
+aS'Dead of Winter: Lucky Luke Smith'
+p1566
+aS'Dead of Winter: Meryl Wolfe'
+p1567
+aS'Dead of Winter: Rich Sommer'
+p1568
+aS'Dead of Winter: Roberta Plum'
+p1569
+aS'Dead of Winter: Rodney Smith'
+p1570
+aS'Dead of Winter: Ruckus Burley'
+p1571
+aS'Dead of Winter: Warring Colonies'
+p1572
+asg35
+I5
+sg36
+g37
+sS'boardgameartist'
+p1573
+(lp1574
+S'David Richards'
+p1575
+aVFernanda Suárez
+p1576
+aS'Peter Wocken'
+p1577
+asS'boardgamepublisher'
+p1578
+(lp1579
+S'Plaid Hat Games'
+p1580
+aS'Arclight'
+p1581
+aS'Cube Factory of Ideas'
+p1582
+aS'Edge Entertainment'
+p1583
+aVGalápagos Jogos
+p1584
+aS'Game Harbor'
+p1585
+aVGém Klub Kft.
+p1586
+aS'Gemenot'
+p1587
+aS'Heidelberger Spieleverlag'
+p1588
+aS'Korea Boardgames co., Ltd.'
+p1589
+aS'MINDOK'
+p1590
+aS'Raven Distribution'
+p1591
+asg54
+S'12'
+p1592
+sg56
+I210
+sS'boardgamefamily'
+p1593
+(lp1594
+S'Crossroads Series'
+p1595
+aS'Post-Apocalyptic'
+p1596
+asg61
+I45
+sS'boardgamecategory'
+p1597
+(lp1598
+S'Bluffing'
+p1599
+aS'Deduction'
+p1600
+aS'Horror'
+p1601
+aS'Zombies'
+p1602
+asa(dp1603
+S'boardgamedesigner'
+p1604
+(lp1605
+S'Jonathan Gilmour'
+p1606
+aS'Isaac Vega'
+p1607
+asS'boardgameintegration'
+p1608
+(lp1609
+S'Dead of Winter: A Crossroads Game'
+p1610
+asg5
+g6
+(S'<name sortindex="1">Dead of Winter: The Long Night</name>'
+p1611
+tp1612
+Rp1613
+sg10
+I120
+sg11
+I2
+sS'boardgamemechanic'
+p1614
+(lp1615
+S'Action Point Allowance System'
+p1616
+aS'Area Movement'
+p1617
+aS'Co-operative Play'
+p1618
+aS'Dice Rolling'
+p1619
+aS'Hand Management'
+p1620
+aS'Press Your Luck'
+p1621
+aS'Storytelling'
+p1622
+aS'Variable Player Powers'
+p1623
+aS'Voting'
+p1624
+asS'boardgameexpansion'
+p1625
+(lp1626
+VDead of Winter: A Crossroads Game \u2013 BGG Crossroads Promo
+p1627
+aS'Dead of Winter: Dice Tower Promos'
+p1628
+aS'Dead of Winter: Felicia Day'
+p1629
+aS'Dead of Winter: KD James'
+p1630
+aS'Dead of Winter: Kodiak Colby'
+p1631
+aS'Dead of Winter: Lucky Luke Smith'
+p1632
+aS'Dead of Winter: Meryl Wolfe'
+p1633
+aS'Dead of Winter: Rich Sommer'
+p1634
+aS'Dead of Winter: Roberta Plum'
+p1635
+aS'Dead of Winter: Rodney Smith'
+p1636
+aS'Dead of Winter: Ruckus Burley'
+p1637
+aS'Dead of Winter: Warring Colonies'
+p1638
+asg35
+I5
+sg36
+g37
+sS'boardgameartist'
+p1639
+(lp1640
+S'Gunship Revolution'
+p1641
+aS'Joshua Panelo'
+p1642
+aS'David Richards'
+p1643
+aVFernanda Suárez
+p1644
+aS'Peter Wocken'
+p1645
+asS'boardgamepublisher'
+p1646
+(lp1647
+S'Plaid Hat Games'
+p1648
+aS'Arclight'
+p1649
+aS'Crowd Games'
+p1650
+aS'Cube Factory of Ideas'
+p1651
+aS'Edge Entertainment'
+p1652
+aVFilosofia Éditions
+p1653
+aVGalápagos Jogos
+p1654
+aS'Heidelberger Spieleverlag'
+p1655
+aS'Raven Distribution'
+p1656
+asg54
+S'12'
+p1657
+sg56
+I120
+sS'boardgamefamily'
+p1658
+(lp1659
+S'Crossroads Series'
+p1660
+aS'Post-Apocalyptic'
+p1661
+asg61
+I60
+sS'boardgamecategory'
+p1662
+(lp1663
+S'Bluffing'
+p1664
+aS'Deduction'
+p1665
+aS'Horror'
+p1666
+aS'Mature / Adult'
+p1667
+aS'Science Fiction'
+p1668
+aS'Zombies'
+p1669
+asa(dp1670
+S'boardgamedesigner'
+p1671
+(lp1672
+S'Allan B. Calhamer'
+p1673
+asg5
+g6
+(S'<name sortindex="1">Diplomacy</name>'
+p1674
+tp1675
+Rp1676
+sg10
+I360
+sg11
+I2
+sS'boardgamemechanic'
+p1677
+(lp1678
+S'Area Control / Area Influence'
+p1679
+aS'Area Movement'
+p1680
+aS'Player Elimination'
+p1681
+aS'Simultaneous Action Selection'
+p1682
+asS'boardgameexpansion'
+p1683
+(lp1684
+S'Diplomacy Games and Variants'
+p1685
+aS'Diplomacy: 1900 Variant'
+p1686
+aS'Diplomacy: Ard-Ri Variant'
+p1687
+aS'Diplomacy: Hundred Variant'
+p1688
+asg35
+I7
+sS'boardgameimplementation'
+p1689
+(lp1690
+S'Colonial Diplomacy'
+p1691
+asg36
+g213
+sS'boardgameartist'
+p1692
+(lp1693
+S'Blake Beasley'
+p1694
+aS'Hugh Bredin'
+p1695
+aS'Vincent Dutrait'
+p1696
+aS'Gilles Lautussier'
+p1697
+aS'Guillaume Rohmer'
+p1698
+aS'Allison Shinkle'
+p1699
+asS'boardgamepublisher'
+p1700
+(lp1701
+S'The Avalon Hill Game Co'
+p1702
+aS'Games Research, Inc.'
+p1703
+aS'Asmodee'
+p1704
+aS'Avalon Hill Games, Inc.'
+p1705
+aS'Descartes Editeur'
+p1706
+aS'Editrice Giochi'
+p1707
+aS'Gibsons Games'
+p1708
+aS'Grow Jogos e Brinquedos'
+p1709
+aS'Intellectual Diversions'
+p1710
+aS'Jedko Games'
+p1711
+aS'Joc Internacional'
+p1712
+aS'Jumbo'
+p1713
+aS'Kod Kod'
+p1714
+aS'Miro Company'
+p1715
+aS'Mondadori Giochi'
+p1716
+aS'Parker Brothers'
+p1717
+aS'Parker Spiele'
+p1718
+aS'Philmar'
+p1719
+aS'Waddington Sanders Ltd.'
+p1720
+aS"Waddington's Games, Inc."
+p1721
+asg54
+S'14'
+p1722
+sg56
+I360
+sS'boardgamefamily'
+p1723
+(lp1724
+S'Diplomacy'
+p1725
+asg61
+I360
+sS'boardgamecategory'
+p1726
+(lp1727
+S'Bluffing'
+p1728
+aS'Negotiation'
+p1729
+aS'Political'
+p1730
+aS'Post-Napoleonic'
+p1731
+aS'Wargame'
+p1732
+asa(dp1733
+S'boardgamedesigner'
+p1734
+(lp1735
+S'Jean-Louis Roubira'
+p1736
+asS'boardgameintegration'
+p1737
+(lp1738
+S'Dixit Odyssey'
+p1739
+aS'Dixit: Journey'
+p1740
+asg5
+g6
+(S'<name sortindex="1">Dixit</name>'
+p1741
+tp1742
+Rp1743
+sg10
+I30
+sg11
+I3
+sS'boardgamemechanic'
+p1744
+(lp1745
+S'Simultaneous Action Selection'
+p1746
+aS'Storytelling'
+p1747
+aS'Voting'
+p1748
+asS'boardgameexpansion'
+p1749
+(lp1750
+S'Dixit 2: "Gift" promo card'
+p1751
+aS'Dixit 2: "The American" promo card'
+p1752
+aS'Dixit 3: Journey'
+p1753
+aS'Dixit 8: "Cocktail" promo card'
+p1754
+aS'Dixit Odyssey (expansion)'
+p1755
+aS'Dixit Odyssey: "Bunny" promo card'
+p1756
+aVDixit Origins: "La Machine à rêves" Promotional card
+p1757
+aS'Dixit Quest'
+p1758
+aS'Dixit: "Magic bunny" promo card'
+p1759
+aS'Dixit: "Pumpkinhead" and "Santa" promo cards'
+p1760
+aS'Dixit: "The Dragon" promo card'
+p1761
+aS'Dixit: "The Inheritors" promo cards'
+p1762
+aS'Dixit: "The Werewolves of Miller\'s Hollow: The Pact" Promo Cards'
+p1763
+aS'Dixit: "Werewolves" promo cards'
+p1764
+aS'Dixit: 2012 Asmodee Special Cards'
+p1765
+aS'Dixit: Anniversary Pack'
+p1766
+aS'Dixit: Daydreams'
+p1767
+aS'Dixit: Harmonies'
+p1768
+aS'Dixit: Memories'
+p1769
+aS'Dixit: Origins'
+p1770
+aS'Dixit: Revelations'
+p1771
+aS'Dixit: Spielbox 03/15 Promo Card'
+p1772
+aS'Dixit: Tabletop Day 2015 Promo Pack'
+p1773
+asg35
+I6
+sg36
+g391
+sS'boardgameartist'
+p1774
+(lp1775
+S'Marie Cardouat'
+p1776
+asS'boardgamepublisher'
+p1777
+(lp1778
+S'Libellud'
+p1779
+aS'ADC Blackfire Entertainment'
+p1780
+aS'Asmodee'
+p1781
+aS'Asterion Press'
+p1782
+aVGalápagos Jogos
+p1783
+aVGém Klub Kft.
+p1784
+aS'hobbity.eu'
+p1785
+aS'Hobby Japan'
+p1786
+aS'KADABRA'
+p1787
+aS'Kaissa Chess & Games'
+p1788
+aS'Korea Boardgames co., Ltd.'
+p1789
+aS'Lautapelit.fi'
+p1790
+aS'Morapiaf'
+p1791
+aS'Nordic Games GmbH'
+p1792
+aS'Paladium Games'
+p1793
+aS'Rebel'
+p1794
+aS'Swan Panasia Co., Ltd.'
+p1795
+asg54
+g457
+sg56
+I30
+sS'boardgamefamily'
+p1796
+(lp1797
+S'Dixit'
+p1798
+aS'Judging Games'
+p1799
+asg61
+I30
+sS'boardgamecategory'
+p1800
+(lp1801
+S'Card Game'
+p1802
+aS'Humor'
+p1803
+aS'Party Game'
+p1804
+asa(dp1805
+S'boardgamedesigner'
+p1806
+(lp1807
+S'Jean-Louis Roubira'
+p1808
+asg5
+g6
+(S'<name sortindex="1">Dixit 3: Journey</name>'
+p1809
+tp1810
+Rp1811
+sg10
+I30
+sg11
+I3
+sS'boardgamemechanic'
+p1812
+(lp1813
+S'Simultaneous Action Selection'
+p1814
+aS'Storytelling'
+p1815
+aS'Voting'
+p1816
+asS'boardgameexpansion'
+p1817
+(lp1818
+VDixit Origins: "La Machine à rêves" Promotional card
+p1819
+aS'Dixit'
+p1820
+aS'Dixit Odyssey'
+p1821
+aS'Dixit: Journey'
+p1822
+asg35
+I6
+sS'boardgameimplementation'
+p1823
+(lp1824
+S'Dixit: Journey'
+p1825
+asg36
+g391
+sS'boardgameartist'
+p1826
+(lp1827
+S'Xavier Collette'
+p1828
+asS'boardgamepublisher'
+p1829
+(lp1830
+S'Libellud'
+p1831
+aS'ADC Blackfire Entertainment'
+p1832
+aS'Asmodee'
+p1833
+aS'Asterion Press'
+p1834
+aVGalápagos Jogos
+p1835
+aS'hobbity.eu'
+p1836
+aS'Hobby Japan'
+p1837
+aS'Lautapelit.fi'
+p1838
+aS'Lifestyle Boardgames Ltd'
+p1839
+aS'Rebel'
+p1840
+asg54
+g457
+sg56
+I30
+sS'boardgamefamily'
+p1841
+(lp1842
+S'Dixit'
+p1843
+aS'Judging Games'
+p1844
+asg61
+I30
+sS'boardgamecategory'
+p1845
+(lp1846
+S'Bluffing'
+p1847
+aS'Card Game'
+p1848
+aS'Deduction'
+p1849
+aS'Expansion for Base-game'
+p1850
+aS'Humor'
+p1851
+aS'Party Game'
+p1852
+asa(dp1853
+S'boardgamedesigner'
+p1854
+(lp1855
+S'Jean-Louis Roubira'
+p1856
+asg5
+g6
+(S'<name sortindex="1">Dixit Quest</name>'
+p1857
+tp1858
+Rp1859
+sg10
+I30
+sg11
+I3
+sS'boardgamemechanic'
+p1860
+(lp1861
+S'Simultaneous Action Selection'
+p1862
+aS'Storytelling'
+p1863
+aS'Voting'
+p1864
+asS'boardgameexpansion'
+p1865
+(lp1866
+S'Dixit 2: "Gift" promo card'
+p1867
+aS'Dixit 2: "The American" promo card'
+p1868
+aS'Dixit: "The Werewolves of Miller\'s Hollow: The Pact" Promo Cards'
+p1869
+aS'Dixit'
+p1870
+aS'Dixit Odyssey'
+p1871
+aS'Dixit: Journey'
+p1872
+asg35
+I6
+sg36
+g391
+sS'boardgameartist'
+p1873
+(lp1874
+S'Marie Cardouat'
+p1875
+asS'boardgamepublisher'
+p1876
+(lp1877
+S'Libellud'
+p1878
+aS'Asmodee'
+p1879
+aS'Asterion Press'
+p1880
+aVGalápagos Jogos
+p1881
+aVGém Klub Kft.
+p1882
+aS'hobbity.eu'
+p1883
+aS'Lautapelit.fi'
+p1884
+aS'Lifestyle Boardgames Ltd'
+p1885
+aS'Rebel'
+p1886
+aS'Swan Panasia Co., Ltd.'
+p1887
+asg54
+g457
+sg56
+I30
+sS'boardgamefamily'
+p1888
+(lp1889
+S'Dixit'
+p1890
+aS'Judging Games'
+p1891
+asg61
+I30
+sS'boardgamecategory'
+p1892
+(lp1893
+S'Bluffing'
+p1894
+aS'Card Game'
+p1895
+aS'Deduction'
+p1896
+aS'Expansion for Base-game'
+p1897
+aS'Humor'
+p1898
+aS'Party Game'
+p1899
+asa(dp1900
+S'boardgamedesigner'
+p1901
+(lp1902
+S'Jean-Louis Roubira'
+p1903
+asg5
+g6
+(S'<name sortindex="1">Dixit: Daydreams</name>'
+p1904
+tp1905
+Rp1906
+sg10
+I30
+sg11
+I3
+sS'boardgamemechanic'
+p1907
+(lp1908
+S'Simultaneous Action Selection'
+p1909
+aS'Storytelling'
+p1910
+aS'Voting'
+p1911
+asS'boardgameexpansion'
+p1912
+(lp1913
+S'Dixit'
+p1914
+aS'Dixit Odyssey'
+p1915
+aS'Dixit: Journey'
+p1916
+asg35
+I6
+sg36
+g1008
+sS'boardgameartist'
+p1917
+(lp1918
+S'Franck Dion'
+p1919
+asS'boardgamepublisher'
+p1920
+(lp1921
+S'Asterion Press'
+p1922
+aVGalápagos Jogos
+p1923
+aVGém Klub Kft.
+p1924
+aS'Libellud'
+p1925
+aS'Rebel'
+p1926
+aS'Swan Panasia Co., Ltd.'
+p1927
+asg54
+g1008
+sg56
+I30
+sS'boardgamefamily'
+p1928
+(lp1929
+S'Dixit'
+p1930
+aS'Judging Games'
+p1931
+asg61
+I30
+sS'boardgamecategory'
+p1932
+(lp1933
+S'Bluffing'
+p1934
+aS'Card Game'
+p1935
+aS'Expansion for Base-game'
+p1936
+aS'Humor'
+p1937
+aS'Party Game'
+p1938
+asa(dp1939
+S'boardgamedesigner'
+p1940
+(lp1941
+S'Jean-Louis Roubira'
+p1942
+asg5
+g6
+(S'<name sortindex="1">Dixit: Origins</name>'
+p1943
+tp1944
+Rp1945
+sg10
+I30
+sg11
+I3
+sS'boardgamemechanic'
+p1946
+(lp1947
+S'Simultaneous Action Selection'
+p1948
+aS'Storytelling'
+p1949
+aS'Voting'
+p1950
+asS'boardgameexpansion'
+p1951
+(lp1952
+VDixit Origins: "La Machine à rêves" Promotional card
+p1953
+aS'Dixit'
+p1954
+aS'Dixit Odyssey'
+p1955
+aS'Dixit: Journey'
+p1956
+asg35
+I6
+sg36
+g391
+sS'boardgameartist'
+p1957
+(lp1958
+VClément Lefevre
+p1959
+asS'boardgamepublisher'
+p1960
+(lp1961
+S'Asmodee'
+p1962
+aS'Asterion Press'
+p1963
+aVGalápagos Jogos
+p1964
+aVGém Klub Kft.
+p1965
+aS'hobbity.eu'
+p1966
+aS'Lautapelit.fi'
+p1967
+aS'Libellud'
+p1968
+aS'Lifestyle Boardgames Ltd'
+p1969
+aS'Rebel'
+p1970
+aS'Swan Panasia Co., Ltd.'
+p1971
+asg54
+g457
+sg56
+I30
+sS'boardgamefamily'
+p1972
+(lp1973
+S'Dixit'
+p1974
+aS'Judging Games'
+p1975
+asg61
+I30
+sS'boardgamecategory'
+p1976
+(lp1977
+S'Bluffing'
+p1978
+aS'Card Game'
+p1979
+aS'Expansion for Base-game'
+p1980
+aS'Humor'
+p1981
+aS'Party Game'
+p1982
+asa(dp1983
+S'boardgamedesigner'
+p1984
+(lp1985
+S'Jean-Louis Roubira'
+p1986
+asg5
+g6
+(S'<name sortindex="1">Dixit: Revelations</name>'
+p1987
+tp1988
+Rp1989
+sg10
+I30
+sg11
+I3
+sS'boardgamemechanic'
+p1990
+(lp1991
+S'Storytelling'
+p1992
+aS'Voting'
+p1993
+asS'boardgameexpansion'
+p1994
+(lp1995
+S'Dixit 8: "Cocktail" promo card'
+p1996
+aS'Dixit: "Magic bunny" promo card'
+p1997
+aS'Dixit'
+p1998
+aS'Dixit: Journey'
+p1999
+asg35
+I6
+sg36
+g391
+sS'boardgameartist'
+p2000
+(lp2001
+S'Marina Coudray'
+p2002
+asS'boardgamepublisher'
+p2003
+(lp2004
+S'Asterion Press'
+p2005
+aVFilosofia Éditions
+p2006
+aVGém Klub Kft.
+p2007
+aS'Libellud'
+p2008
+aS'Lifestyle Boardgames Ltd'
+p2009
+aS'Rebel'
+p2010
+asg54
+g391
+sg56
+I30
+sS'boardgamefamily'
+p2011
+(lp2012
+S'Dixit'
+p2013
+aS'Judging Games'
+p2014
+asg61
+I30
+sS'boardgamecategory'
+p2015
+(lp2016
+S'Card Game'
+p2017
+aS'Expansion for Base-game'
+p2018
+aS'Party Game'
+p2019
+asa(dp2020
+S'boardgamedesigner'
+p2021
+(lp2022
+S'Matt Leacock'
+p2023
+asg5
+g6
+(S'<name sortindex="1">Forbidden Island</name>'
+p2024
+tp2025
+Rp2026
+sg10
+I30
+sg11
+I2
+sS'boardgamemechanic'
+p2027
+(lp2028
+S'Action Point Allowance System'
+p2029
+aS'Co-operative Play'
+p2030
+aS'Grid Movement'
+p2031
+aS'Hand Management'
+p2032
+aS'Modular Board'
+p2033
+aS'Pick-up and Deliver'
+p2034
+aS'Set Collection'
+p2035
+aS'Variable Player Powers'
+p2036
+asS'boardgameexpansion'
+p2037
+(lp2038
+VLa Isla Prohibida: La Expansión Prohibida
+p2039
+asg35
+I4
+sS'boardgameimplementation'
+p2040
+(lp2041
+S'Forbidden Desert'
+p2042
+asg36
+g37
+sS'boardgameartist'
+p2043
+(lp2044
+S'C. B. Canga'
+p2045
+asS'boardgamepublisher'
+p2046
+(lp2047
+S'Gamewright'
+p2048
+aS'ADC Blackfire Entertainment'
+p2049
+aS'AURUM, Inc.'
+p2050
+aS'Cocktail Games'
+p2051
+aS'Competo / Marektoy'
+p2052
+aS'Devir'
+p2053
+aS'FoxMind Israel'
+p2054
+aS'Kaissa Chess & Games'
+p2055
+aS'Kanga Games'
+p2056
+aS'Lifestyle Boardgames Ltd'
+p2057
+aS'Rebel'
+p2058
+aS'Reflexshop'
+p2059
+aS'Schmidt Spiele'
+p2060
+aS'uplay.it edizioni'
+p2061
+aS'White Goblin Games'
+p2062
+asg54
+g457
+sg56
+I30
+sS'boardgamefamily'
+p2063
+(lp2064
+S'Forbidden Games'
+p2065
+aS'Mensa Select'
+p2066
+asg61
+I30
+sS'boardgamecategory'
+p2067
+(lp2068
+S'Adventure'
+p2069
+aS'Card Game'
+p2070
+aS'Fantasy'
+p2071
+asa(dp2072
+S'boardgamedesigner'
+p2073
+(lp2074
+VVlaada Chvátil
+p2075
+asg5
+g6
+(S'<name sortindex="1">Galaxy Trucker</name>'
+p2076
+tp2077
+Rp2078
+sg10
+I60
+sS'boardgamecompilation'
+p2079
+(lp2080
+S'Galaxy Trucker: Anniversary Edition'
+p2081
+asg11
+I2
+sS'boardgamemechanic'
+p2082
+(lp2083
+S'Dice Rolling'
+p2084
+aS'Partnerships'
+p2085
+aS'Tile Placement'
+p2086
+asS'boardgameexpansion'
+p2087
+(lp2088
+S'Galaxy Trucker: Another Big Expansion'
+p2089
+aS'Galaxy Trucker: Bonus Cards'
+p2090
+aS'Galaxy Trucker: Even-Steven Cards'
+p2091
+aS'Galaxy Trucker: Latest Models'
+p2092
+aS'Galaxy Trucker: Missions'
+p2093
+aS'Galaxy Trucker: Rough Road Ahead'
+p2094
+aS'Galaxy Trucker: The Big Expansion'
+p2095
+asg35
+I4
+sg36
+g37
+sS'boardgameartist'
+p2096
+(lp2097
+VTomá\u0161 Ku\u010derovský
+p2098
+aS'Radim Pech'
+p2099
+asS'boardgamepublisher'
+p2100
+(lp2101
+S'Czech Games Edition'
+p2102
+aS'Albi'
+p2103
+aS'Devir'
+p2104
+aS'Heidelberger Spieleverlag'
+p2105
+aS'HomoLudicus'
+p2106
+aS'IELLO'
+p2107
+aS'Lex Games'
+p2108
+aS'Magellan'
+p2109
+aS'One Moment Games'
+p2110
+aS'Playgo Hungary'
+p2111
+aS'Quined White Goblin Games'
+p2112
+aS'Rebel'
+p2113
+aS'Red Glove'
+p2114
+aS'REXhry'
+p2115
+aS'Rio Grande Games'
+p2116
+asg54
+S'10'
+p2117
+sg56
+I60
+sg61
+I60
+sS'boardgamecategory'
+p2118
+(lp2119
+S'Humor'
+p2120
+aS'Real-time'
+p2121
+aS'Science Fiction'
+p2122
+aS'Space Exploration'
+p2123
+aS'Transportation'
+p2124
+asa(dp2125
+S'boardgamedesigner'
+p2126
+(lp2127
+S'Alexander Pfister'
+p2128
+asg5
+g6
+(S'<name sortindex="1">Great Western Trail</name>'
+p2129
+tp2130
+Rp2131
+sg10
+I150
+sg11
+I2
+sS'boardgamemechanic'
+p2132
+(lp2133
+S'Deck / Pool Building'
+p2134
+aS'Hand Management'
+p2135
+aS'Point to Point Movement'
+p2136
+aS'Tile Placement'
+p2137
+asS'boardgameexpansion'
+p2138
+(lp2139
+S'Deutscher Spielepreis 2017 Goodie Box'
+p2140
+aS'Great Western Trail: Promo Station Master Tiles'
+p2141
+aS'Great Western Trail: The Eleventh Building Tile'
+p2142
+asg35
+I4
+sg36
+g653
+sS'boardgameartist'
+p2143
+(lp2144
+S'Andreas Resch'
+p2145
+asS'boardgamepublisher'
+p2146
+(lp2147
+S'eggertspiele'
+p2148
+aS'999 Games'
+p2149
+aS'Arclight'
+p2150
+aS'Broadway Toys LTD'
+p2151
+aS'Conclave Editora'
+p2152
+aS'Delta Vision Publishing'
+p2153
+aS'Ediciones MasQueOca'
+p2154
+aS'Gigamic'
+p2155
+aS'Korea Boardgames co., Ltd.'
+p2156
+aS'Lacerta'
+p2157
+aS'Ludicus'
+p2158
+aS'Pegasus Spiele'
+p2159
+aS'Stronghold Games'
+p2160
+aS'uplay.it edizioni'
+p2161
+aS'Zvezda'
+p2162
+asg54
+S'12'
+p2163
+sg56
+I150
+sS'boardgamefamily'
+p2164
+(lp2165
+S'Animals: Cattle'
+p2166
+aS'Stronghold Games: The Great Designer Series'
+p2167
+asg61
+I75
+sS'boardgamecategory'
+p2168
+(lp2169
+S'American West'
+p2170
+asa(dp2171
+S'boardgamedesigner'
+p2172
+(lp2173
+S'Stephen Baker'
+p2174
+asg5
+g6
+(S'<name sortindex="1">HeroQuest</name>'
+p2175
+tp2176
+Rp2177
+sg10
+I90
+sg11
+I2
+sS'boardgamemechanic'
+p2178
+(lp2179
+S'Dice Rolling'
+p2180
+aS'Grid Movement'
+p2181
+aS'Modular Board'
+p2182
+aS'Partnerships'
+p2183
+aS'Role Playing'
+p2184
+aS'Roll / Spin and Move'
+p2185
+aS'Variable Player Powers'
+p2186
+asS'boardgameexpansion'
+p2187
+(lp2188
+S'Adventure 1: The Mountain Keep (fan expansion to HeroQuest)'
+p2189
+aS'Adventure 2: Slaves Of Zargon (fan expansion for HeroQuest)'
+p2190
+aS'Adventure 3: The Lost Books (fan expansion for HeroQuest)'
+p2191
+aS"Adventure 4: In The King's Service (fan expansion for HeroQuest)"
+p2192
+aVAdventure 5: Beyond Grin's Crag \u2013 Kellar's Keep 2 (fan expansion for HeroQuest)
+p2193
+aVAdventure 6: Resurrection \u2013 Return of the Witch Lord 2 (fan expansion for HeroQuest)
+p2194
+aS'Adventure 7: The Rescue of Princess Millandriell (fan expansion to HeroQuest)'
+p2195
+aS'Adventure 8: The Horror Inside the Ancient Halls of Sunca (fan expansion to HeroQuest)'
+p2196
+aS'A Growl of Thunder'
+p2197
+aS'HeroQuest: Against the Ogre Horde'
+p2198
+aS'HeroQuest: Barbarian Quest Pack'
+p2199
+aS'HeroQuest: Dungeons of Peril'
+p2200
+aS'HeroQuest: Elf Quest Pack'
+p2201
+aS"HeroQuest: Kellar's Keep"
+p2202
+aS'HeroQuest: Return of the Witch Lord'
+p2203
+aS'HeroQuest: Running the Gauntlet'
+p2204
+aS'HeroQuest: Wizards of Morcar'
+p2205
+aVMasters' Series: Adventure 1 \u2013 The Deadly Hand of Zargon (fan expansion for HeroQuest)
+p2206
+asg35
+I5
+sS'boardgameimplementation'
+p2207
+(lp2208
+S'Advanced Heroquest'
+p2209
+aS'HeroQuest Advanced Quest'
+p2210
+aS'Warhammer Quest: Shadows Over Hammerhal'
+p2211
+asg36
+g1008
+sS'boardgameartist'
+p2212
+(lp2213
+S'Gary Chalk'
+p2214
+aS'Les Edwards'
+p2215
+asS'boardgamepublisher'
+p2216
+(lp2217
+S'Estrela'
+p2218
+aS'El Greco'
+p2219
+aS'MB Giochi'
+p2220
+aS'MB Jeux'
+p2221
+aS'MB Juegos'
+p2222
+aS'MB peli'
+p2223
+aS'MB spel'
+p2224
+aS'MB Spellen'
+p2225
+aS'MB Spiele'
+p2226
+aS'MB spil (Danish)'
+p2227
+aS'Milton Bradley'
+p2228
+aS'Takara'
+p2229
+asg54
+g457
+sg56
+I90
+sS'boardgamefamily'
+p2230
+(lp2231
+S'Campaign Games'
+p2232
+aS'HeroQuest'
+p2233
+aS'Warhammer Fantasy Board Games'
+p2234
+asg61
+I90
+sS'boardgamecategory'
+p2235
+(lp2236
+S'Adventure'
+p2237
+aS'Exploration'
+p2238
+aS'Fantasy'
+p2239
+aS'Fighting'
+p2240
+aS'Miniatures'
+p2241
+asa(dp2242
+S'boardgamedesigner'
+p2243
+(lp2244
+S'Jon Moffat'
+p2245
+asg5
+g6
+(S'<name sortindex="1">Horrible Hex</name>'
+p2246
+tp2247
+Rp2248
+sg10
+I30
+sg11
+I1
+sS'boardgamemechanic'
+p2249
+(lp2250
+S'Pattern Building'
+p2251
+aS'Tile Placement'
+p2252
+asg35
+I3
+sg36
+g86
+sS'boardgamepublisher'
+p2253
+(lp2254
+S'Stone Circle Games'
+p2255
+asg56
+I30
+sS'boardgamefamily'
+p2256
+(lp2257
+S'Crowdfunding: Kickstarter'
+p2258
+asg61
+I30
+sS'boardgamecategory'
+p2259
+(lp2260
+S'Abstract Strategy'
+p2261
+aS'Puzzle'
+p2262
+asa(dp2263
+g5
+g6
+(S'<name sortindex="1">Identicards</name>'
+p2264
+tp2265
+Rp2266
+sg10
+I40
+sg11
+I3
+sg35
+I6
+sS'boardgamepublisher'
+p2267
+(lp2268
+S'Grow Jogos e Brinquedos'
+p2269
+asg56
+I40
+sg61
+I40
+sS'boardgamecategory'
+p2270
+(lp2271
+S'Deduction'
+p2272
+asa(dp2273
+S'boardgamedesigner'
+p2274
+(lp2275
+S'Andreas Pelikan'
+p2276
+aS'Alexander Pfister'
+p2277
+asg5
+g6
+(S'<name sortindex="1">Isle of Skye: From Chieftain to King</name>'
+p2278
+tp2279
+Rp2280
+sg10
+I50
+sg11
+I2
+sS'boardgamemechanic'
+p2281
+(lp2282
+S'Auction/Bidding'
+p2283
+aS'Set Collection'
+p2284
+aS'Tile Placement'
+p2285
+asS'boardgameexpansion'
+p2286
+(lp2287
+S'Brettspiel Adventskalender 2015'
+p2288
+aS'Deutscher Spielepreis 2016 Goodie Box'
+p2289
+aVIsle of Skye: From Chieftain to King \u2013 Adjacency Scrolls
+p2290
+aVIsle of Skye: From Chieftain to King \u2013 Brettspiel Adventskalender Promo Tiles
+p2291
+aVIsle of Skye: From Chieftain to King \u2013 Kennerspiel des Jahres Promo Tile
+p2292
+aVIsle of Skye: From Chieftain to King \u2013 Themenplättchen
+p2293
+aVIsle of Skye: From Chieftain to King \u2013 Tunnelplättchen
+p2294
+aS'Isle of Skye: Journeyman'
+p2295
+asg35
+I5
+sg36
+g37
+sS'boardgameartist'
+p2296
+(lp2297
+S'Klemens Franz'
+p2298
+asS'boardgamepublisher'
+p2299
+(lp2300
+S'Lookout Games'
+p2301
+aS'999 Games'
+p2302
+aS'Albi'
+p2303
+aVCompaya.hu - Gamer Café Kft.
+p2304
+aS'Funforge'
+p2305
+aVGoKids \u73a9\u6a02\u5c0f\u5b50
+p2306
+aS'Hobby Japan'
+p2307
+aS'Hobby World'
+p2308
+aS'Kaissa Chess & Games'
+p2309
+aS'Lacerta'
+p2310
+aS'Ludicus'
+p2311
+aS'Mayfair Games'
+p2312
+aS'PaperGames (III)'
+p2313
+aS'SD Games'
+p2314
+aS'uplay.it edizioni'
+p2315
+aS'Zhiyanjia'
+p2316
+asg54
+g457
+sg56
+I50
+sS'boardgamefamily'
+p2317
+(lp2318
+S'Country: Scotland'
+p2319
+asg61
+I30
+sS'boardgamecategory'
+p2320
+(lp2321
+S'Economic'
+p2322
+aS'Territory Building'
+p2323
+asa(dp2324
+S'boardgamedesigner'
+p2325
+(lp2326
+S'Leslie Scott'
+p2327
+asg5
+g6
+(S'<name sortindex="1">Jenga</name>'
+p2328
+tp2329
+Rp2330
+sg10
+I20
+sg11
+I1
+sg35
+I8
+sg36
+g37
+sS'boardgameartist'
+p2331
+(lp2332
+S'(Uncredited)'
+p2333
+asS'boardgamepublisher'
+p2334
+(lp2335
+S'(Unknown)'
+p2336
+aS'Barnes & Noble'
+p2337
+aS'Borras Plana S.A.'
+p2338
+aS'Cayro Juegos'
+p2339
+aS'Chad Valley Co Ltd.'
+p2340
+aS'Challenge Master Game Co Ltd'
+p2341
+aS'Creative Crafthouse'
+p2342
+aS'Dal Negro'
+p2343
+aVDer Grüne Punkt
+p2344
+aS'Early Learning Centre'
+p2345
+aS'Estrela'
+p2346
+aS'Full Base Union Enterprise Co., Ltd.'
+p2347
+aS'Fundex'
+p2348
+aS'Goki'
+p2349
+aS'Grow Jogos e Brinquedos'
+p2350
+aS'Hasbro'
+p2351
+aS'IKEA'
+p2352
+aS'Irwin Toy Ltd.'
+p2353
+aS'John Jaques of London'
+p2354
+aS'Klee'
+p2355
+aS'Lagoon Games'
+p2356
+aS'Leslie Scott Associates'
+p2357
+aS'MB Spiele'
+p2358
+aS'Melco'
+p2359
+aS'Milton Bradley'
+p2360
+aS'Mitra'
+p2361
+aS'NeoTroy Games'
+p2362
+aVOkoïa - Addendo
+p2363
+aS'Paradigm Games Ltd'
+p2364
+aS'Parker Brothers'
+p2365
+aS'Pavilion'
+p2366
+aS'Pokonobe Associates'
+p2367
+aS'Queen Games'
+p2368
+aS'Salco'
+p2369
+aS'Schmidt France'
+p2370
+aS'Siam Mandalay'
+p2371
+aS'Simba Toys'
+p2372
+aS'SPM - Syarikat Permainan Malaysia'
+p2373
+aS'Stihl'
+p2374
+aS'Tactic'
+p2375
+aS'Tesco'
+p2376
+aS'Tomy'
+p2377
+aS'tridias'
+p2378
+aS'USAopoly'
+p2379
+aS'Woodstock Spiele'
+p2380
+aS'WWF'
+p2381
+asg54
+g1008
+sg56
+I20
+sS'boardgamefamily'
+p2382
+(lp2383
+S'Jenga'
+p2384
+aS'Tower Stacking Games'
+p2385
+aS'3D Games'
+p2386
+aS'Characters: Hello Kitty'
+p2387
+aS'Characters: Tarzan'
+p2388
+aS'Promotional Board Games'
+p2389
+asg61
+I20
+sS'boardgamecategory'
+p2390
+(lp2391
+S'Action / Dexterity'
+p2392
+aS'Party Game'
+p2393
+asa(dp2394
+S'boardgamedesigner'
+p2395
+(lp2396
+S'Stefan Feld'
+p2397
+asg5
+g6
+(S'<name sortindex="1">J&#243;rv&#237;k</name>'
+p2398
+tp2399
+Rp2400
+sg10
+I90
+sg11
+I2
+sS'boardgamemechanic'
+p2401
+(lp2402
+S'Auction/Bidding'
+p2403
+aS'Worker Placement'
+p2404
+asg35
+I5
+sS'boardgameimplementation'
+p2405
+(lp2406
+S'Kaispeicher'
+p2407
+aS'The Speicherstadt'
+p2408
+asg36
+g37
+sS'boardgameartist'
+p2409
+(lp2410
+S'Marc Margielsky'
+p2411
+asS'boardgamepublisher'
+p2412
+(lp2413
+S'Conclave Editora'
+p2414
+aS'Ediciones MasQueOca'
+p2415
+aS'eggertspiele'
+p2416
+aS'hobbity.eu'
+p2417
+aS'Hobby Japan'
+p2418
+aS'Pegasus Spiele'
+p2419
+aS'Piatnik'
+p2420
+aS'Stronghold Games'
+p2421
+aS'uplay.it edizioni'
+p2422
+asg54
+S'12'
+p2423
+sg56
+I90
+sS'boardgamefamily'
+p2424
+(lp2425
+S'Stronghold Games: The Great Designer Series'
+p2426
+aS'Vikings'
+p2427
+asg61
+I45
+sa(dp2428
+S'boardgamedesigner'
+p2429
+(lp2430
+S'Richard Garfield'
+p2431
+asg5
+g6
+(S'<name sortindex="1">King of Tokyo</name>'
+p2432
+tp2433
+Rp2434
+sg10
+I30
+sg11
+I2
+sS'boardgamemechanic'
+p2435
+(lp2436
+S'Area Control / Area Influence'
+p2437
+aS'Card Drafting'
+p2438
+aS'Dice Rolling'
+p2439
+aS'Player Elimination'
+p2440
+aS'Press Your Luck'
+p2441
+asS'boardgameexpansion'
+p2442
+(lp2443
+S'King of New York: Power Up!'
+p2444
+aVKing of Tokyo/New York: Monster Pack \u2013 Cthulhu
+p2445
+aVKing of Tokyo/New York: Monster Pack \u2013 King Kong
+p2446
+aS'King of Tokyo: Champion of the Gods Promo Card'
+p2447
+aS'King of Tokyo: Fish Market promo card'
+p2448
+aS"King of Tokyo: Garfield's Gift Promo Card"
+p2449
+aS'King of Tokyo: Halloween'
+p2450
+aS'King of Tokyo: Power Up!'
+p2451
+aS'King of Tokyo: Promo Cards'
+p2452
+aS'King of Tokyo: The Horde Promo Card'
+p2453
+asg35
+I6
+sS'boardgameimplementation'
+p2454
+(lp2455
+S'King of New York'
+p2456
+asg36
+g37
+sS'boardgameartist'
+p2457
+(lp2458
+S'Gabriel Butik'
+p2459
+aS'Romain Gaschet'
+p2460
+aS'Igor Polouchine'
+p2461
+aS'Benjamin Raynal'
+p2462
+aS'Jean-Baptiste Reynaud'
+p2463
+aS'Jonathan Silvertre'
+p2464
+aVRégis Torres
+p2465
+aS'Anthony Wolff'
+p2466
+asS'boardgamepublisher'
+p2467
+(lp2468
+S'IELLO'
+p2469
+aS'Bergsala Enigma'
+p2470
+aS'Bureau De Juegos'
+p2471
+aS'Delta Vision Publishing'
+p2472
+aS'Devir'
+p2473
+aS'Egmont Polska'
+p2474
+aS'Fantasmagoria'
+p2475
+aVGalápagos Jogos
+p2476
+aS'GeGe Co. Ltd.'
+p2477
+aVGoKids \u73a9\u6a02\u5c0f\u5b50
+p2478
+aS'HaKubia'
+p2479
+aS'Heidelberger Spieleverlag'
+p2480
+aS'Hobby Japan'
+p2481
+aS'Hobby World'
+p2482
+aS'HomoLudicus'
+p2483
+aS'Kaissa Chess & Games'
+p2484
+aS'Korea Boardgames co., Ltd.'
+p2485
+aS'Lautapelit.fi'
+p2486
+aS'Lex Games'
+p2487
+aS'MESAboardgames'
+p2488
+aS'Nordic Games GmbH'
+p2489
+aS'Origames'
+p2490
+aS'Reflexshop'
+p2491
+aS'REXhry'
+p2492
+aS'Smart Ltd'
+p2493
+aS'uplay.it edizioni'
+p2494
+aVVennerød Forlag AS
+p2495
+asg54
+g391
+sg56
+I30
+sS'boardgamefamily'
+p2496
+(lp2497
+S'Asian Theme'
+p2498
+aS'Cities: Tokyo'
+p2499
+aS'Country: Japan'
+p2500
+aS'Kaiju'
+p2501
+aS'King of Tokyo'
+p2502
+aS'Monsters'
+p2503
+asg61
+I30
+sS'boardgamecategory'
+p2504
+(lp2505
+S'Dice'
+p2506
+aS'Fighting'
+p2507
+aS'Movies / TV / Radio theme'
+p2508
+aS'Science Fiction'
+p2509
+asa(dp2510
+S'boardgamedesigner'
+p2511
+(lp2512
+S'Richard Garfield'
+p2513
+asg5
+g6
+(S'<name sortindex="1">King of Tokyo: Halloween</name>'
+p2514
+tp2515
+Rp2516
+sg10
+I30
+sS'boardgamecompilation'
+p2517
+(lp2518
+S'King of New York: 55 Central Park West'
+p2519
+asg11
+I2
+sS'boardgamemechanic'
+p2520
+(lp2521
+S'Card Drafting'
+p2522
+aS'Dice Rolling'
+p2523
+aS'Player Elimination'
+p2524
+aS'Press Your Luck'
+p2525
+aS'Take That'
+p2526
+aS'Variable Player Powers'
+p2527
+asS'boardgameexpansion'
+p2528
+(lp2529
+S'King of New York'
+p2530
+aS'King of Tokyo'
+p2531
+aS'King of Tokyo: Power Up!'
+p2532
+asg35
+I6
+sg36
+g37
+sS'boardgameartist'
+p2533
+(lp2534
+VRégis Torres
+p2535
+asS'boardgamepublisher'
+p2536
+(lp2537
+S'IELLO'
+p2538
+aVGalápagos Jogos
+p2539
+aS'Heidelberger Spieleverlag'
+p2540
+aS'Hobby Japan'
+p2541
+aS'HomoLudicus'
+p2542
+aS'Lex Games'
+p2543
+aS'uplay.it edizioni'
+p2544
+asg54
+g457
+sg56
+I30
+sS'boardgamefamily'
+p2545
+(lp2546
+S'Cities: Tokyo'
+p2547
+aS'Country: Japan'
+p2548
+aS'Kaiju'
+p2549
+aS'King of Tokyo'
+p2550
+asg61
+I30
+sS'boardgamecategory'
+p2551
+(lp2552
+S'Dice'
+p2553
+aS'Expansion for Base-game'
+p2554
+aS'Fighting'
+p2555
+aS'Movies / TV / Radio theme'
+p2556
+aS'Science Fiction'
+p2557
+asa(dp2558
+S'boardgamedesigner'
+p2559
+(lp2560
+S'Max J. Kobbert'
+p2561
+asg5
+g6
+(S'<name sortindex="1">Labyrinth</name>'
+p2562
+tp2563
+Rp2564
+sg10
+I20
+sg11
+I2
+sS'boardgamemechanic'
+p2565
+(lp2566
+S'Modular Board'
+p2567
+aS'Point to Point Movement'
+p2568
+aS'Route/Network Building'
+p2569
+aS'Tile Placement'
+p2570
+asg35
+I4
+sS'boardgameimplementation'
+p2571
+(lp2572
+S'The Amazing Spider-Man Labyrinth'
+p2573
+aS'Junior Labyrinth'
+p2574
+aS'The Lord of the Rings Labyrinth'
+p2575
+aS'Master Labyrinth'
+p2576
+aS'Ocean Labyrinth'
+p2577
+aS'Star Wars Labyrinth'
+p2578
+asg36
+g37
+sS'boardgameartist'
+p2579
+(lp2580
+VAndreas Härlin
+p2581
+aS'Stephen Hillenburg'
+p2582
+aS'illuVision'
+p2583
+aS'Max J. Kobbert'
+p2584
+aS'Joachim Krause'
+p2585
+aS'Horst Laupheimer'
+p2586
+aS'Herbert Lentz'
+p2587
+aS'Sybille Ring'
+p2588
+aS'Wolfgang Scheit'
+p2589
+aS'vitamin-be.de'
+p2590
+aS'Thomas Weiss'
+p2591
+asS'boardgamepublisher'
+p2592
+(lp2593
+S'Ravensburger Spieleverlag GmbH'
+p2594
+aS'AS Company'
+p2595
+aS'Discovery Toys'
+p2596
+aS'Elmark'
+p2597
+aS'Estrela'
+p2598
+aS'Grow Jogos e Brinquedos'
+p2599
+aS'MoBi'
+p2600
+aS'Otto Maier Verlag'
+p2601
+aS'Ronda'
+p2602
+asg54
+g391
+sg56
+I20
+sS'boardgamefamily'
+p2603
+(lp2604
+S'Movies: Avatar'
+p2605
+aS'Promotional Board Games'
+p2606
+aS'Ravensburger Labyrinth Games'
+p2607
+aS'TV Series: Spongebob Squarepants'
+p2608
+asg61
+I20
+sS'boardgamecategory'
+p2609
+(lp2610
+S"Children's Game"
+p2611
+aS'Maze'
+p2612
+aS'Puzzle'
+p2613
+asa(dp2614
+S'boardgamedesigner'
+p2615
+(lp2616
+S'Laurent Escoffier'
+p2617
+aS'David Franck'
+p2618
+asg5
+g6
+(S'<name sortindex="1">Loony Quest</name>'
+p2619
+tp2620
+Rp2621
+sg10
+I30
+sg11
+I2
+sS'boardgamemechanic'
+p2622
+(lp2623
+S'Line Drawing'
+p2624
+asS'boardgameexpansion'
+p2625
+(lp2626
+S'Brettspiel Adventskalender 2015'
+p2627
+aVLoony Quest: Bonusplättchen Skier
+p2628
+aS'Loony Quest: Christmas Promo'
+p2629
+aS'Loony Quest: The Lost City'
+p2630
+asg35
+I5
+sS'boardgameimplementation'
+p2631
+(lp2632
+S'Doodle Quest'
+p2633
+asg36
+g37
+sS'boardgameartist'
+p2634
+(lp2635
+S'Paul Mafayon'
+p2636
+asS'boardgamepublisher'
+p2637
+(lp2638
+S'Broadway Toys LTD'
+p2639
+aVGalápagos Jogos
+p2640
+aVGém Klub Kft.
+p2641
+aS'Lautapelit.fi'
+p2642
+aS'Libellud'
+p2643
+aS'Rebel'
+p2644
+asg54
+g457
+sg56
+I30
+sg61
+I20
+sS'boardgamecategory'
+p2645
+(lp2646
+S'Action / Dexterity'
+p2647
+aS'Fantasy'
+p2648
+aS'Real-time'
+p2649
+asa(dp2650
+S'boardgamedesigner'
+p2651
+(lp2652
+S'Seiji Kanai'
+p2653
+asg5
+g6
+(S'<name sortindex="1">Love Letter</name>'
+p2654
+tp2655
+Rp2656
+sg10
+I20
+sS'boardgamecompilation'
+p2657
+(lp2658
+S'Big Game Night 2016'
+p2659
+aS'Mein Friedberg Spiel'
+p2660
+aS'Princess Wonder'
+p2661
+asg11
+I2
+sS'boardgamemechanic'
+p2662
+(lp2663
+S'Hand Management'
+p2664
+aS'Player Elimination'
+p2665
+asS'boardgameexpansion'
+p2666
+(lp2667
+S'Big Love Letter'
+p2668
+aS'Love Letter: Erweiterung'
+p2669
+asg35
+I4
+sS'boardgameimplementation'
+p2670
+(lp2671
+S'Adventure Time Love Letter'
+p2672
+aS'Archer: Once You Go Blackmail...'
+p2673
+aVHarap Alb Continu\u0103... un joc Love Letter
+p2674
+aS'Love Letter Premium'
+p2675
+aS'Love Letter: Batman'
+p2676
+aS'Love Letter: Star Wars'
+p2677
+aVLove Letter: The Hobbit \u2013 The Battle of the Five Armies
+p2678
+aS'Lovecraft Letter'
+p2679
+asg36
+g37
+sS'boardgameartist'
+p2680
+(lp2681
+S'Andrew Hepworth'
+p2682
+aS'Jeff Himmelman'
+p2683
+aS'John Kovalic'
+p2684
+aS'Robb Miller'
+p2685
+aS'Ken Niimura'
+p2686
+aS'Noboru Sugiura'
+p2687
+aS'Yating Sun'
+p2688
+asS'boardgamepublisher'
+p2689
+(lp2690
+S'Alderac Entertainment Group (AEG)'
+p2691
+aS'963.com'
+p2692
+aS'999 Games'
+p2693
+aS'Arclight'
+p2694
+aS'Bard Centrum Gier'
+p2695
+aS'Black Monk'
+p2696
+aS'BoardM Factory'
+p2697
+aS'Brain Games'
+p2698
+aS'cutia.ro'
+p2699
+aS'Delta Vision Publishing'
+p2700
+aS'Devir'
+p2701
+aVFilosofia Éditions
+p2702
+aVGalápagos Jogos
+p2703
+aS'Hobby World'
+p2704
+aS'HomoLudicus'
+p2705
+aS'Japon Brand'
+p2706
+aS'Kaissa Chess & Games'
+p2707
+aS'Kanai Factory'
+p2708
+aS'Lautapelit.fi'
+p2709
+aS'Magpie (Korean Co)'
+p2710
+aS'MINDOK'
+p2711
+aS'Pegasus Spiele'
+p2712
+aS'Siam Board Games'
+p2713
+aS'Steve Jackson Games'
+p2714
+aS'Swan Panasia Co., Ltd.'
+p2715
+aS'uplay.it edizioni'
+p2716
+asg54
+g457
+sg56
+I20
+sS'boardgamefamily'
+p2717
+(lp2718
+S'AEG: 5 Minute Fun'
+p2719
+aS'AEG: Big in Japan'
+p2720
+aS'AEG: Pocket Game'
+p2721
+aS'Card Games: Draw and Discard Games'
+p2722
+aS'Holidays: Christmas'
+p2723
+aS'Love Letter'
+p2724
+aS'Munchkin'
+p2725
+aS'Tempest: Shared World'
+p2726
+asg61
+I20
+sS'boardgamecategory'
+p2727
+(lp2728
+S'Card Game'
+p2729
+aS'Deduction'
+p2730
+aS'Renaissance'
+p2731
+asa(dp2732
+S'boardgamedesigner'
+p2733
+(lp2734
+VPhilippe des Pallières
+p2735
+aVLoïc Lamy
+p2736
+asg5
+g6
+(S'<name sortindex="1">Mafia de Cuba</name>'
+p2737
+tp2738
+Rp2739
+sg10
+I20
+sg11
+I6
+sS'boardgamemechanic'
+p2740
+(lp2741
+S'Partnerships'
+p2742
+aS'Role Playing'
+p2743
+aS'Variable Player Powers'
+p2744
+asS'boardgameexpansion'
+p2745
+(lp2746
+VMafia de Cuba: Revolución
+p2747
+asg35
+I12
+sg36
+g457
+sS'boardgameartist'
+p2748
+(lp2749
+S'Thomas Vuarchex'
+p2750
+asS'boardgamepublisher'
+p2751
+(lp2752
+VLui-même
+p2753
+aS'Asmodee'
+p2754
+aS'Asterion Press'
+p2755
+aS'Broadway Toys LTD'
+p2756
+aVGalápagos Jogos
+p2757
+asg54
+g457
+sg56
+I20
+sS'boardgamefamily'
+p2758
+(lp2759
+S'Country: Cuba'
+p2760
+aS'Werewolf / Mafia'
+p2761
+asg61
+I10
+sS'boardgamecategory'
+p2762
+(lp2763
+S'Bluffing'
+p2764
+aS'Deduction'
+p2765
+aS'Mafia'
+p2766
+aS'Party Game'
+p2767
+asa(dp2768
+S'boardgamedesigner'
+p2769
+(lp2770
+VPhilippe des Pallières
+p2771
+aVLoïc Lamy
+p2772
+asg5
+g6
+(S'<name sortindex="1">Mafia de Cuba: Revoluci&#243;n</name>'
+p2773
+tp2774
+Rp2775
+sg10
+I20
+sg11
+I6
+sS'boardgamemechanic'
+p2776
+(lp2777
+S'Partnerships'
+p2778
+aS'Role Playing'
+p2779
+aS'Variable Player Powers'
+p2780
+asS'boardgameexpansion'
+p2781
+(lp2782
+S'Mafia de Cuba'
+p2783
+asg35
+I12
+sg36
+g213
+sS'boardgameartist'
+p2784
+(lp2785
+S'Thomas Vuarchex'
+p2786
+asS'boardgamepublisher'
+p2787
+(lp2788
+S'Asmodee'
+p2789
+aVGalápagos Jogos
+p2790
+aVLui-même
+p2791
+asg54
+S'14'
+p2792
+sg56
+I20
+sS'boardgamefamily'
+p2793
+(lp2794
+S'Country: Cuba'
+p2795
+aS'Werewolf / Mafia'
+p2796
+asg61
+I10
+sS'boardgamecategory'
+p2797
+(lp2798
+S'Bluffing'
+p2799
+aS'Deduction'
+p2800
+aS'Expansion for Base-game'
+p2801
+aS'Mafia'
+p2802
+aS'Party Game'
+p2803
+asa(dp2804
+S'boardgamedesigner'
+p2805
+(lp2806
+S'Mordecai Meirowitz'
+p2807
+asg5
+g6
+(S'<name sortindex="1">Mastermind</name>'
+p2808
+tp2809
+Rp2810
+sg10
+I20
+sg11
+I2
+sS'boardgamemechanic'
+p2811
+(lp2812
+S'Paper-and-Pencil'
+p2813
+asg35
+I2
+sS'boardgameimplementation'
+p2814
+(lp2815
+S'Crack the Code'
+p2816
+aS'Electronic Master Mind'
+p2817
+aS'Grand Mastermind'
+p2818
+aS'Mastermind Challenge'
+p2819
+aS'New Mastermind'
+p2820
+aS'Number Mastermind'
+p2821
+aS'Ultimate Mastermind'
+p2822
+asg36
+g86
+sS'boardgamepublisher'
+p2823
+(lp2824
+S'Alga'
+p2825
+aS'Brohm-Parker-Spiele'
+p2826
+aS'Cadaco'
+p2827
+aVCapiépa - Jeux Éducatifs
+p2828
+aS'Cayro Juegos'
+p2829
+aS'CEFA (Celulosa Fabril S. A.)'
+p2830
+aS'Chieftain Products'
+p2831
+aS'Clipper'
+p2832
+aS'Croner'
+p2833
+aS'Dilemma Games'
+p2834
+aS'Diset S. A.'
+p2835
+aS'Dourios'
+p2836
+aS'Falomir Juegos'
+p2837
+aS'Games International BV'
+p2838
+aS'Globo Giocattoli'
+p2839
+aS'Grow Jogos e Brinquedos'
+p2840
+aS'Hasbro'
+p2841
+aS'Henry Higgins Promotions'
+p2842
+aS'Invicta Games'
+p2843
+aS'Jumbo'
+p2844
+aS'Kenbrite'
+p2845
+aS'Krajowa Agencja Wydawnicza'
+p2846
+aS'Orda Industries Ltd.'
+p2847
+aS'Parker Brothers'
+p2848
+aS'Paul Lamond Games Ltd'
+p2849
+aS'Pavilion'
+p2850
+aS'Plasticart'
+p2851
+aS'Poptoy'
+p2852
+aS'Pressman Toy Corp.'
+p2853
+aS'Trixy Games'
+p2854
+aS'VEB Plastspielwaren Berlin'
+p2855
+aS'Vic-Toy'
+p2856
+aS"Waddington's Games, Inc."
+p2857
+aS'Woodstock Spiele'
+p2858
+aV\u30b7\u30e5\u30a6\u30af\u30ea\u30a8\u30a3\u30b7\u30e7\u30f3 (Shu Creation)
+p2859
+asg54
+g457
+sg56
+I20
+sS'boardgamefamily'
+p2860
+(lp2861
+S'Celebrities: Walt Disney'
+p2862
+aS'Mastermind'
+p2863
+asg61
+I20
+sS'boardgamecategory'
+p2864
+(lp2865
+S'Abstract Strategy'
+p2866
+aS'Deduction'
+p2867
+asa(dp2868
+S'boardgamedesigner'
+p2869
+(lp2870
+S'Luiz Dal Monte Neto'
+p2871
+asg5
+g6
+(S'<name sortindex="1">Meias Palavras</name>'
+p2872
+tp2873
+Rp2874
+sg10
+I45
+sg11
+I3
+sS'boardgamemechanic'
+p2875
+(lp2876
+S'Dice Rolling'
+p2877
+asg35
+I6
+sg36
+g37
+sS'boardgamepublisher'
+p2878
+(lp2879
+S'Game Office'
+p2880
+asg54
+S'10'
+p2881
+sg56
+I45
+sg61
+I45
+sS'boardgamecategory'
+p2882
+(lp2883
+S'Deduction'
+p2884
+aS'Word Game'
+p2885
+asa(dp2886
+S'boardgamedesigner'
+p2887
+(lp2888
+S'Rikki Tahta'
+p2889
+asg5
+g6
+(S'<name sortindex="1">Melee</name>'
+p2890
+tp2891
+Rp2892
+sg10
+I20
+sg11
+I2
+sS'boardgamemechanic'
+p2893
+(lp2894
+S'Area Control / Area Influence'
+p2895
+aS'Area Movement'
+p2896
+aS'Auction/Bidding'
+p2897
+aS'Simultaneous Action Selection'
+p2898
+aS'Take That'
+p2899
+aS'Variable Player Powers'
+p2900
+asg35
+I4
+sg36
+g37
+sS'boardgameartist'
+p2901
+(lp2902
+S'Xavier Gueniffey Durin'
+p2903
+aS'Stephanie Gustafsson'
+p2904
+asS'boardgamepublisher'
+p2905
+(lp2906
+S'La Mame Games'
+p2907
+aS'Ferti'
+p2908
+aS'Foxgames (Poland)'
+p2909
+aS'Heidelberger Spieleverlag'
+p2910
+aS'Indie Boards & Cards'
+p2911
+asg54
+g391
+sg56
+I20
+sS'boardgamefamily'
+p2912
+(lp2913
+S'Crowdfunding: Kickstarter'
+p2914
+asg61
+I20
+sS'boardgamecategory'
+p2915
+(lp2916
+S'Bluffing'
+p2917
+aS'Medieval'
+p2918
+aS'Territory Building'
+p2919
+aS'Wargame'
+p2920
+asa(dp2921
+S'boardgamedesigner'
+p2922
+(lp2923
+S'Mike Young'
+p2924
+asg5
+g6
+(S'<name sortindex="1">Meteor</name>'
+p2925
+tp2926
+Rp2927
+sg10
+I15
+sg11
+I1
+sS'boardgamemechanic'
+p2928
+(lp2929
+S'Co-operative Play'
+p2930
+aS'Hand Management'
+p2931
+asS'boardgameexpansion'
+p2932
+(lp2933
+S'Meteor: Telemetry Rocket'
+p2934
+asg35
+I6
+sg36
+g37
+sS'boardgameartist'
+p2935
+(lp2936
+S'Marco Echevarria'
+p2937
+aS'Allison Litchfield'
+p2938
+aS'Benjamin Shulman'
+p2939
+asS'boardgamepublisher'
+p2940
+(lp2941
+S'Mayday Games'
+p2942
+aS'The Game Crafter, LLC'
+p2943
+asg54
+S'12'
+p2944
+sg56
+I15
+sS'boardgamefamily'
+p2945
+(lp2946
+S'Crowdfunding: Kickstarter'
+p2947
+asg61
+I15
+sS'boardgamecategory'
+p2948
+(lp2949
+S'Card Game'
+p2950
+aS'Real-time'
+p2951
+aS'Science Fiction'
+p2952
+asa(dp2953
+S'boardgamedesigner'
+p2954
+(lp2955
+S'Michael Kiesling'
+p2956
+aS'Wolfgang Kramer'
+p2957
+asg5
+g6
+(S'<name sortindex="1">Mexica</name>'
+p2958
+tp2959
+Rp2960
+sg10
+I90
+sg11
+I2
+sS'boardgamemechanic'
+p2961
+(lp2962
+S'Action Point Allowance System'
+p2963
+aS'Area Control / Area Influence'
+p2964
+aS'Area Enclosure'
+p2965
+aS'Grid Movement'
+p2966
+aS'Tile Placement'
+p2967
+asg35
+I4
+sg36
+g37
+sS'boardgameartist'
+p2968
+(lp2969
+S'Paul Mafayon'
+p2970
+aS'Walter Pepperle'
+p2971
+aS'Christophe Swal'
+p2972
+aS'Franz Vohwinkel'
+p2973
+asS'boardgamepublisher'
+p2974
+(lp2975
+S'Super Meeple'
+p2976
+aS'ABACUSSPIELE'
+p2977
+aS'Conclave Editora'
+p2978
+aS'G3'
+p2979
+aS'IELLO'
+p2980
+aS'Maldito Games'
+p2981
+aS'playagame edizioni'
+p2982
+aS'Ravensburger Spieleverlag GmbH'
+p2983
+aS'Rio Grande Games'
+p2984
+asg54
+S'10'
+p2985
+sg56
+I90
+sS'boardgamefamily'
+p2986
+(lp2987
+S'Country: Mexico'
+p2988
+aS'The Mask Trilogy'
+p2989
+aS'Native American'
+p2990
+asg61
+I90
+sS'boardgamecategory'
+p2991
+(lp2992
+S'Abstract Strategy'
+p2993
+aS'City Building'
+p2994
+aS'Territory Building'
+p2995
+asa(dp2996
+S'boardgamedesigner'
+p2997
+(lp2998
+S'Andreas Kuhnekath'
+p2999
+asS'boardgameintegration'
+p3000
+(lp3001
+S'Ricochet Robots'
+p3002
+asg5
+g6
+(S'<name sortindex="1">Micro Robots</name>'
+p3003
+tp3004
+Rp3005
+sg10
+I20
+sg11
+I2
+sS'boardgamemechanic'
+p3006
+(lp3007
+S'Dice Rolling'
+p3008
+aS'Grid Movement'
+p3009
+aS'Modular Board'
+p3010
+asg35
+I99
+sS'boardgameimplementation'
+p3011
+(lp3012
+S'Ricochet Robots'
+p3013
+asg36
+g37
+sS'boardgameartist'
+p3014
+(lp3015
+S'Christian Fiore'
+p3016
+asS'boardgamepublisher'
+p3017
+(lp3018
+S'ABACUSSPIELE'
+p3019
+aS'Devir'
+p3020
+aS'Oya'
+p3021
+aS'Swan Panasia Co., Ltd.'
+p3022
+aS'Z-Man Games'
+p3023
+asg54
+g457
+sg56
+I20
+sg61
+I20
+sS'boardgamecategory'
+p3024
+(lp3025
+S'Abstract Strategy'
+p3026
+aS'Puzzle'
+p3027
+aS'Real-time'
+p3028
+asa(dp3029
+S'boardgamedesigner'
+p3030
+(lp3031
+S'Reiner Knizia'
+p3032
+asg5
+g6
+(S'<name sortindex="1">Modern Art</name>'
+p3033
+tp3034
+Rp3035
+sg10
+I45
+sg11
+I3
+sS'boardgamemechanic'
+p3036
+(lp3037
+S'Auction/Bidding'
+p3038
+aS'Commodity Speculation'
+p3039
+aS'Hand Management'
+p3040
+asg35
+I5
+sS'boardgameimplementation'
+p3041
+(lp3042
+S'Masters Gallery'
+p3043
+asg36
+g1008
+sS'boardgameartist'
+p3044
+(lp3045
+S'Carole Carrion'
+p3046
+aS'Manuel Carvalho'
+p3047
+aS'Chen Cheng-po'
+p3048
+aS'Mike Doyle (I)'
+p3049
+aS'Pete Fenlon'
+p3050
+aS'Paul Laane'
+p3051
+aS'Ramon Martins'
+p3052
+aS'Daniel Melim'
+p3053
+aS'Rafael Silveira'
+p3054
+aS'Sigrid Thaler'
+p3055
+aS'Zeilbeck & Natzeck Design Company'
+p3056
+asS'boardgamepublisher'
+p3057
+(lp3058
+VHans im Glück
+p3059
+aS'CMON Limited'
+p3060
+aS'DiceTree Games'
+p3061
+aS'Drosselmeyer & Co. Ltd.'
+p3062
+aS'GeGe Co. Ltd.'
+p3063
+aS'Kaissa Chess & Games'
+p3064
+aS'Lautapelit.fi'
+p3065
+aS'Matagot'
+p3066
+aS'Mayfair Games'
+p3067
+aS'New Games Order, LLC'
+p3068
+aS'Odysseia Jogos'
+p3069
+aS'Oink Games'
+p3070
+aS'Pegasus Spiele'
+p3071
+aS'Rebel'
+p3072
+aS'Wargames Club Publishing'
+p3073
+asg54
+S'10'
+p3074
+sg56
+I45
+sS'boardgamefamily'
+p3075
+(lp3076
+S'Visual Arts: Painting'
+p3077
+asg61
+I45
+sS'boardgamecategory'
+p3078
+(lp3079
+S'Card Game'
+p3080
+aS'Economic'
+p3081
+asa(dp3082
+S'boardgamedesigner'
+p3083
+(lp3084
+S'Carl Chudyk'
+p3085
+asg5
+g6
+(S'<name sortindex="1">Mottainai</name>'
+p3086
+tp3087
+Rp3088
+sg10
+I30
+sg11
+I2
+sS'boardgamemechanic'
+p3089
+(lp3090
+S'Card Drafting'
+p3091
+aS'Hand Management'
+p3092
+aS'Set Collection'
+p3093
+aS'Variable Phase Order'
+p3094
+asS'boardgameexpansion'
+p3095
+(lp3096
+S'Mottainai: Wutai Mountain'
+p3097
+asg35
+I5
+sS'boardgameimplementation'
+p3098
+(lp3099
+S'Glory to Rome'
+p3100
+asg36
+g86
+sS'boardgameartist'
+p3101
+(lp3102
+S'Alanna Cervenak'
+p3103
+aS'Carl Chudyk'
+p3104
+asS'boardgamepublisher'
+p3105
+(lp3106
+S'Asmadi Games'
+p3107
+aS'Ludofy Creative'
+p3108
+asg54
+S'12'
+p3109
+sg56
+I30
+sS'boardgamefamily'
+p3110
+(lp3111
+S'Tableau Building'
+p3112
+asg61
+I15
+sS'boardgamecategory'
+p3113
+(lp3114
+S'Card Game'
+p3115
+asa(dp3116
+S'boardgamedesigner'
+p3117
+(lp3118
+S'Bruno Cathala'
+p3119
+aS'Ludovic Maublanc'
+p3120
+asg5
+g6
+(S'<name sortindex="1">Mr. Jack</name>'
+p3121
+tp3122
+Rp3123
+sg10
+I30
+sg11
+I2
+sS'boardgamemechanic'
+p3124
+(lp3125
+S'Grid Movement'
+p3126
+aS'Variable Player Powers'
+p3127
+asS'boardgameexpansion'
+p3128
+(lp3129
+S'Mr. Jack Extension'
+p3130
+aS'Mr. Jack: The Carriage'
+p3131
+asg35
+I2
+sS'boardgameimplementation'
+p3132
+(lp3133
+VLe Fantôme de l'Opéra
+p3134
+aS'Mr. Jack in New York'
+p3135
+aS'Mr. Jack Pocket'
+p3136
+asg36
+g86
+sS'boardgameartist'
+p3137
+(lp3138
+VPierô
+p3139
+asS'boardgamepublisher'
+p3140
+(lp3141
+S'Hurrican'
+p3142
+aS'Brain Games'
+p3143
+aVGalápagos Jogos
+p3144
+aS'Lautapelit.fi'
+p3145
+aS'Neuroludic'
+p3146
+asg54
+S'10'
+p3147
+sg56
+I30
+sS'boardgamefamily'
+p3148
+(lp3149
+S'Characters: Jack the Ripper'
+p3150
+aS'Characters: Sherlock Holmes'
+p3151
+aS'Cities: London'
+p3152
+aS'Country: England'
+p3153
+aS'Mr. Jack'
+p3154
+asg61
+I30
+sS'boardgamecategory'
+p3155
+(lp3156
+S'Deduction'
+p3157
+aS'Murder/Mystery'
+p3158
+asa(dp3159
+S'boardgamedesigner'
+p3160
+(lp3161
+S'Oleksandr Nevskiy'
+p3162
+aS'Oleg Sidorenko'
+p3163
+asg5
+g6
+(S'<name sortindex="1">Mysterium</name>'
+p3164
+tp3165
+Rp3166
+sg10
+I42
+sg11
+I2
+sS'boardgamemechanic'
+p3167
+(lp3168
+S'Co-operative Play'
+p3169
+aS'Hand Management'
+p3170
+aS'Pattern Recognition'
+p3171
+asS'boardgameexpansion'
+p3172
+(lp3173
+S'Brettspiel Adventskalender 2016'
+p3174
+aS'Brettspiel Adventskalender 2017'
+p3175
+aS'Mysterium: Brettspiel Adventskalender 2016 Vision card Promo'
+p3176
+aS'Mysterium: Brettspiel Adventskalender 2017 Promo'
+p3177
+aS'Mysterium: Game Day 2016 Promo Card'
+p3178
+aS'Mysterium: Hidden Signs'
+p3179
+aS'Mysterium: P5 Promo Cards'
+p3180
+aS'Mysterium: Promo Cards'
+p3181
+aS'Mysterium: Secrets & Lies'
+p3182
+aS'Mysterium: The Meeple'
+p3183
+aS'Tajemnicze Domostwo: Motive cards'
+p3184
+asg35
+I7
+sS'boardgameimplementation'
+p3185
+(lp3186
+S'Tajemnicze Domostwo'
+p3187
+asg36
+g1008
+sS'boardgameartist'
+p3188
+(lp3189
+S'Igor Burlakov'
+p3190
+aS'Xavier Collette'
+p3191
+aS'Oleksandr Nevskiy'
+p3192
+aS'Oleg Sidorenko'
+p3193
+asS'boardgamepublisher'
+p3194
+(lp3195
+S'Libellud'
+p3196
+aS'Asmodee'
+p3197
+aS'Bergsala Enigma'
+p3198
+aS'Esdevium'
+p3199
+aS'F2Z Digital Media Inc.'
+p3200
+aVFilosofia Éditions
+p3201
+aVGalápagos Jogos
+p3202
+aVGém Klub Kft.
+p3203
+aVGoKids \u73a9\u6a02\u5c0f\u5b50
+p3204
+aS'Kaissa Chess & Games'
+p3205
+aS'Lautapelit.fi'
+p3206
+aS'Morapiaf'
+p3207
+aS'Z-Man Games'
+p3208
+asg54
+g457
+sg56
+I42
+sS'boardgamefamily'
+p3209
+(lp3210
+S'Ghosts'
+p3211
+aS'Holidays: Halloween'
+p3212
+aS'Mysterium'
+p3213
+asg61
+I42
+sS'boardgamecategory'
+p3214
+(lp3215
+S'Deduction'
+p3216
+aS'Murder/Mystery'
+p3217
+aS'Party Game'
+p3218
+asa(dp3219
+S'boardgamedesigner'
+p3220
+(lp3221
+S'Shimpei Sato'
+p3222
+asg5
+g6
+(S'<name sortindex="1">Onitama</name>'
+p3223
+tp3224
+Rp3225
+sg10
+I20
+sg11
+I2
+sS'boardgamemechanic'
+p3226
+(lp3227
+S'Area Movement'
+p3228
+aS'Grid Movement'
+p3229
+aS'Hand Management'
+p3230
+asS'boardgameexpansion'
+p3231
+(lp3232
+S'Onitama: Goat and Sheep'
+p3233
+aS'Onitama: Phoenix and Turtle'
+p3234
+aS"Onitama: Sensei's Path"
+p3235
+asg35
+I2
+sg36
+g86
+sS'boardgameartist'
+p3236
+(lp3237
+S'Jun Kondo'
+p3238
+aS'Mariusz Szmerdt'
+p3239
+asS'boardgamepublisher'
+p3240
+(lp3241
+S'conception'
+p3242
+aS'Arcane Wonders'
+p3243
+aS'Igiari'
+p3244
+aS'Maldito Games'
+p3245
+aS'minimalGames'
+p3246
+aS'Pegasus Spiele'
+p3247
+asg54
+g457
+sg56
+I20
+sS'boardgamefamily'
+p3248
+(lp3249
+S'5x5 grid'
+p3250
+aS'Combinatorial'
+p3251
+aS'Dice Tower Essentials'
+p3252
+asg61
+I15
+sS'boardgamecategory'
+p3253
+(lp3254
+S'Abstract Strategy'
+p3255
+asa(dp3256
+S'boardgamedesigner'
+p3257
+(lp3258
+S'Matt Leacock'
+p3259
+aS'Chuck D. Yager'
+p3260
+asg5
+g6
+(S'<name sortindex="1">Pandemic: Reign of Cthulhu</name>'
+p3261
+tp3262
+Rp3263
+sg10
+I40
+sg11
+I2
+sS'boardgamemechanic'
+p3264
+(lp3265
+S'Action Point Allowance System'
+p3266
+aS'Co-operative Play'
+p3267
+aS'Hand Management'
+p3268
+aS'Point to Point Movement'
+p3269
+aS'Set Collection'
+p3270
+aS'Trading'
+p3271
+aS'Variable Player Powers'
+p3272
+asg35
+I4
+sS'boardgameimplementation'
+p3273
+(lp3274
+S'Pandemic'
+p3275
+asg36
+g37
+sS'boardgameartist'
+p3276
+(lp3277
+S'Fred Jordan'
+p3278
+aS'Atha Kanaani'
+p3279
+aS'Paul Kluka'
+p3280
+aS'Chris Quilliams'
+p3281
+asS'boardgamepublisher'
+p3282
+(lp3283
+S'Z-Man Games'
+p3284
+aS'Asmodee'
+p3285
+aS'Asterion Press'
+p3286
+aS'Devir'
+p3287
+aVFilosofia Éditions
+p3288
+aS'Hobby Japan'
+p3289
+aS'Kaissa Chess & Games'
+p3290
+aS'Lacerta'
+p3291
+asg54
+S'10'
+p3292
+sg56
+I40
+sS'boardgamefamily'
+p3293
+(lp3294
+S'Cthulhu Mythos'
+p3295
+aS'Pandemic'
+p3296
+asg61
+I40
+sS'boardgamecategory'
+p3297
+(lp3298
+S'Horror'
+p3299
+aS'Mythology'
+p3300
+asa(dp3301
+S'boardgamedesigner'
+p3302
+(lp3303
+S'Uwe Rosenberg'
+p3304
+asg5
+g6
+(S'<name sortindex="1">Patchwork</name>'
+p3305
+tp3306
+Rp3307
+sg10
+I30
+sg11
+I2
+sS'boardgamemechanic'
+p3308
+(lp3309
+S'Tile Placement'
+p3310
+aS'Time Track'
+p3311
+asS'boardgameexpansion'
+p3312
+(lp3313
+S'Patchwork: 5x5 Bonuskarte'
+p3314
+aS'Special Buttons (fan-expansion for Patchwork)'
+p3315
+asg35
+I2
+sg36
+g86
+sS'boardgameartist'
+p3316
+(lp3317
+S'Klemens Franz'
+p3318
+asS'boardgamepublisher'
+p3319
+(lp3320
+S'Lookout Games'
+p3321
+aS'999 Games'
+p3322
+aVCompaya.hu - Gamer Café Kft.
+p3323
+aS'Crowd Games'
+p3324
+aS'Funforge'
+p3325
+aS'Kaissa Chess & Games'
+p3326
+aS'Korea Boardgames co., Ltd.'
+p3327
+aS'Lacerta'
+p3328
+aS'Ludicus'
+p3329
+aS'Ludofy Creative'
+p3330
+aS'Maldito Games'
+p3331
+aS'Mayfair Games'
+p3332
+aS'MINDOK'
+p3333
+aS'NeoTroy Games'
+p3334
+aS'Rebel'
+p3335
+aS'uplay.it edizioni'
+p3336
+aV\u041d\u0435\u0441\u043a\u0443\u0447\u043d\u044b\u0435 \u0438\u0433\u0440\u044b
+p3337
+asg54
+g391
+sg56
+I30
+sS'boardgamefamily'
+p3338
+(lp3339
+S'Combinatorial'
+p3340
+aS'Lookout Games Fur Zwei Spieler Series'
+p3341
+aS'Polyominoes'
+p3342
+asg61
+I15
+sS'boardgamecategory'
+p3343
+(lp3344
+S'Abstract Strategy'
+p3345
+aS'Puzzle'
+p3346
+asa(dp3347
+S'boardgamedesigner'
+p3348
+(lp3349
+S'Andreas Seyfarth'
+p3350
+asg5
+g6
+(S'<name sortindex="1">Puerto Rico</name>'
+p3351
+tp3352
+Rp3353
+sg10
+I150
+sS'boardgamecompilation'
+p3354
+(lp3355
+S'Puerto Rico + Expansion I'
+p3356
+aS'Puerto Rico: Limited Anniversary Edition'
+p3357
+asg11
+I2
+sS'boardgamemechanic'
+p3358
+(lp3359
+S'Variable Phase Order'
+p3360
+asS'boardgameexpansion'
+p3361
+(lp3362
+S'Haiti (fan expansion for Puerto Rico)'
+p3363
+aVPuerto Rico: Expansion I \u2013 New Buildings
+p3364
+aVPuerto Rico: Expansion II \u2013 The Nobles
+p3365
+aS'Treasure Chest'
+p3366
+asg35
+I5
+sS'boardgameimplementation'
+p3367
+(lp3368
+S'San Juan'
+p3369
+asg36
+g37
+sS'boardgameartist'
+p3370
+(lp3371
+S'Harald Lieske'
+p3372
+aS'Franz Vohwinkel'
+p3373
+asS'boardgamepublisher'
+p3374
+(lp3375
+S'alea'
+p3376
+aS'Ravensburger Spieleverlag GmbH'
+p3377
+aS'Albi'
+p3378
+aS'Broadway Toys LTD'
+p3379
+aS'Devir'
+p3380
+aVFilosofia Éditions
+p3381
+aVGém Klub Kft.
+p3382
+aS'Giochi Uniti'
+p3383
+aS'Grow Jogos e Brinquedos'
+p3384
+aS'Kaissa Chess & Games'
+p3385
+aS'Lacerta'
+p3386
+aS'Lautapelit.fi'
+p3387
+aS'MINDOK'
+p3388
+aS'Rio Grande Games'
+p3389
+aS'Stratelibri'
+p3390
+aS'Swan Panasia Co., Ltd.'
+p3391
+aS'Tilsit'
+p3392
+asg54
+S'12'
+p3393
+sg56
+I150
+sS'boardgamefamily'
+p3394
+(lp3395
+S'Alea Big Box'
+p3396
+aS'Colonial Theme'
+p3397
+aS'Country: Puerto Rico'
+p3398
+aS'Puerto Rico'
+p3399
+aS'Tableau Building'
+p3400
+aS'Tropical theme'
+p3401
+asg61
+I90
+sS'boardgamecategory'
+p3402
+(lp3403
+S'City Building'
+p3404
+aS'Economic'
+p3405
+aS'Farming'
+p3406
+asa(dp3407
+S'boardgamedesigner'
+p3408
+(lp3409
+S'Mike Elliott'
+p3410
+aS'Eric M. Lang'
+p3411
+asS'boardgameintegration'
+p3412
+(lp3413
+S'Quarriors! Light vs. Dark'
+p3414
+asg5
+g6
+(S'<name sortindex="1">Quarriors!</name>'
+p3415
+tp3416
+Rp3417
+sg10
+I30
+sg11
+I2
+sS'boardgamemechanic'
+p3418
+(lp3419
+S'Card Drafting'
+p3420
+aS'Deck / Pool Building'
+p3421
+aS'Dice Rolling'
+p3422
+asS'boardgameexpansion'
+p3423
+(lp3424
+S'Quarriors! Key Master Lord of the Quarry Promo Card'
+p3425
+aS'Quarriors! Quarmageddon'
+p3426
+aS'Quarriors! Quarmageddon Multiplying Mischievous Imp Promo Card'
+p3427
+aS'Quarriors! Quartifacts'
+p3428
+aS'Quarriors! Quaxos Promo Cards'
+p3429
+aS'Quarriors! Quest of the Qladiator'
+p3430
+aS'Quarriors! Rise of the Demons'
+p3431
+aS'Quarriors! X-Mas Promo Cards'
+p3432
+asg35
+I4
+sS'boardgameimplementation'
+p3433
+(lp3434
+S'DC Comics Dice Masters: Justice League'
+p3435
+aS'DC Comics Dice Masters: War of Light'
+p3436
+aVDC Comics Dice Masters: War of Light \u2013 Collector's Box
+p3437
+aS"DC Comics Dice Masters: World's Finest"
+p3438
+aVDungeons & Dragons Dice Masters: Battle for Faerûn
+p3439
+aVDungeons & Dragons Dice Masters: Faerûn Under Siege
+p3440
+aS'Marvel Dice Masters: Age of Ultron'
+p3441
+aS'Marvel Dice Masters: Avengers vs. X-Men'
+p3442
+aS'Marvel Dice Masters: Civil War'
+p3443
+aS'Marvel Dice Masters: The Amazing Spider-Man'
+p3444
+aS'Marvel Dice Masters: Uncanny X-Men'
+p3445
+aS'Teenage Mutant Ninja Turtles Dice Masters'
+p3446
+aS'Teenage Mutant Ninja Turtles Dice Masters: Heroes in a Half Shell'
+p3447
+aS'Yu-Gi-Oh! Dice Masters'
+p3448
+asg36
+g37
+sS'boardgameartist'
+p3449
+(lp3450
+S'J. Lonnee'
+p3451
+aS'Chris Raimo'
+p3452
+asS'boardgamepublisher'
+p3453
+(lp3454
+S'WizKids'
+p3455
+aS'Arclight'
+p3456
+aVGalápagos Jogos
+p3457
+aS'Intrafin Games'
+p3458
+aS'NECA'
+p3459
+aS'Stratelibri'
+p3460
+aS'Zvezda'
+p3461
+asg54
+g457
+sg56
+I30
+sS'boardgamefamily'
+p3462
+(lp3463
+S'Quarriors Pool Building system'
+p3464
+asg61
+I30
+sS'boardgamecategory'
+p3465
+(lp3466
+S'Dice'
+p3467
+aS'Fantasy'
+p3468
+aS'Fighting'
+p3469
+asa(dp3470
+S'boardgamedesigner'
+p3471
+(lp3472
+S'Bruno Cathala'
+p3473
+aS'Bruno Faidutti'
+p3474
+asg5
+g6
+(S'<name sortindex="1">Queen\'s Necklace</name>'
+p3475
+tp3476
+Rp3477
+sg10
+I45
+sg11
+I2
+sS'boardgamemechanic'
+p3478
+(lp3479
+S'Betting/Wagering'
+p3480
+aS'Commodity Speculation'
+p3481
+aS'Hand Management'
+p3482
+aS'Set Collection'
+p3483
+asg35
+I4
+sg36
+g653
+sS'boardgameartist'
+p3484
+(lp3485
+S'Pierre-Alain Chartier'
+p3486
+aS'Cyrille Daujean'
+p3487
+aS'Hub'
+p3488
+aS'Denis Zilber'
+p3489
+asS'boardgamepublisher'
+p3490
+(lp3491
+S'CMON Limited'
+p3492
+aS'Days of Wonder'
+p3493
+aS'Spaghetti Western Games'
+p3494
+asg54
+S'10'
+p3495
+sg56
+I45
+sg61
+I30
+sS'boardgamecategory'
+p3496
+(lp3497
+S'Age of Reason'
+p3498
+aS'Bluffing'
+p3499
+aS'Card Game'
+p3500
+aS'Novel-based'
+p3501
+asa(dp3502
+S'boardgamedesigner'
+p3503
+(lp3504
+S'Don Eskridge'
+p3505
+asg5
+g6
+(S'<name sortindex="5">The Resistance</name>'
+p3506
+tp3507
+Rp3508
+sg10
+I30
+sg11
+I5
+sS'boardgamemechanic'
+p3509
+(lp3510
+S'Partnerships'
+p3511
+aS'Simultaneous Action Selection'
+p3512
+aS'Voting'
+p3513
+asS'boardgameexpansion'
+p3514
+(lp3515
+S'The Resistance: Additional Plot Cards'
+p3516
+aS'The Resistance: Hidden Agenda'
+p3517
+aS'The Resistance: Hidden Agenda & Hostile Intent'
+p3518
+aS'The Resistance: Hostile Intent'
+p3519
+aS'The Resistance: Inquisitor Tile Promo'
+p3520
+aS'The Resistance: Merlin/Assassin Promo'
+p3521
+aS'The Resistance: Rogue Agent and Sergeant Modules'
+p3522
+aS'The Resistance: The Plot Thickens'
+p3523
+asg35
+I10
+sS'boardgameimplementation'
+p3524
+(lp3525
+S'The Resistance: Avalon'
+p3526
+asg36
+g213
+sS'boardgameartist'
+p3527
+(lp3528
+S'Luis Francisco'
+p3529
+aS'Piotr Haraszczak'
+p3530
+aS'Maryam Khatoon'
+p3531
+aS'Jordy Knoop'
+p3532
+aS'Vinh Mac'
+p3533
+aS'Alex Murur'
+p3534
+aVJarek Noco\u0144
+p3535
+aS'George Patsouras'
+p3536
+aS'Michael Rasmussen'
+p3537
+aS'Jordan Saia'
+p3538
+aS'Luis Thomas'
+p3539
+asS'boardgamepublisher'
+p3540
+(lp3541
+S'Indie Boards & Cards'
+p3542
+aS'(Web published)'
+p3543
+aS'999 Games'
+p3544
+aS'Devir'
+p3545
+aS'Edge Entertainment'
+p3546
+aVGalápagos Jogos
+p3547
+aS'Heidelberger Spieleverlag'
+p3548
+aS'Hobby Japan'
+p3549
+aS'HomoLudicus'
+p3550
+aS'IELLO'
+p3551
+aS'Lex Games'
+p3552
+aS'Magellan'
+p3553
+aS'MINDOK'
+p3554
+aS'NeoTroy Games'
+p3555
+aS'Portal Games'
+p3556
+aS'Raven Distribution'
+p3557
+aS'Wargames Club Publishing'
+p3558
+asg54
+S'12'
+p3559
+sg56
+I30
+sS'boardgamefamily'
+p3560
+(lp3561
+S'Dystopian Universe'
+p3562
+aS'Postcard Box Games'
+p3563
+aS'Werewolf / Mafia'
+p3564
+asg61
+I30
+sS'boardgamecategory'
+p3565
+(lp3566
+S'Bluffing'
+p3567
+aS'Deduction'
+p3568
+aS'Negotiation'
+p3569
+aS'Party Game'
+p3570
+aS'Science Fiction'
+p3571
+aS'Spies/Secret Agents'
+p3572
+asa(dp3573
+S'boardgamedesigner'
+p3574
+(lp3575
+S'Albert Lamorisse'
+p3576
+aS'Michael I. Levin'
+p3577
+asg5
+g6
+(S'<name sortindex="1">Risk</name>'
+p3578
+tp3579
+Rp3580
+sg10
+I120
+sS'boardgamecompilation'
+p3581
+(lp3582
+S'Risk & Castle Risk'
+p3583
+aVSpaß am Erfolg: Karriere, Das Millionenspiel, Risiko
+p3584
+asg11
+I2
+sS'boardgamemechanic'
+p3585
+(lp3586
+S'Area Control / Area Influence'
+p3587
+aS'Area Movement'
+p3588
+aS'Dice Rolling'
+p3589
+aS'Partnerships'
+p3590
+aS'Player Elimination'
+p3591
+aS'Set Collection'
+p3592
+asS'boardgameexpansion'
+p3593
+(lp3594
+S'Concurrent'
+p3595
+aVLa Conquête du Monde revised
+p3596
+aS'Euro Risk'
+p3597
+aS'Hyborian Risk'
+p3598
+aS'Medieval Risk'
+p3599
+aS'One World Dominion'
+p3600
+aS'Risk 2042'
+p3601
+asg35
+I6
+sS'boardgameimplementation'
+p3602
+(lp3603
+S'FRICO'
+p3604
+aS'Risk  Transformers: The Decepticon Invasion of Earth'
+p3605
+aS'Risk 2210 A.D.'
+p3606
+aS'Risk Battlefield Rogue'
+p3607
+aS'Risk Legacy'
+p3608
+aS'Risk: Game of Thrones'
+p3609
+aS'Risk: Mass Effect Galaxy at War Edition'
+p3610
+aS'Risk: Plants vs. Zombies'
+p3611
+aS'Risk: The Dalek Invasion of Earth'
+p3612
+aS'Risk: The Lord of the Rings'
+p3613
+aVRisk: The Walking Dead \u2013 Survival Edition
+p3614
+aVRisk: Transformers \u2013 Cybertron Battle Edition
+p3615
+aVLa Conquête du Monde
+p3616
+asg36
+g37
+sS'boardgameartist'
+p3617
+(lp3618
+S'(Uncredited)'
+p3619
+asS'boardgamepublisher'
+p3620
+(lp3621
+S'(Unknown)'
+p3622
+aS'Alga'
+p3623
+aS'Barnes & Noble'
+p3624
+aS'Borras Plana S.A.'
+p3625
+aS'Carlit'
+p3626
+aS'Clipper'
+p3627
+aS'Editrice Giochi'
+p3628
+aS'El Greco'
+p3629
+aS'Grow Jogos e Brinquedos'
+p3630
+aS'Guau'
+p3631
+aS'Hasbro'
+p3632
+aS'Juegos Crone'
+p3633
+aS'Majora'
+p3634
+aS'Miro Company'
+p3635
+aS'Nilco S.A.'
+p3636
+aS'Palitoy Ltd.'
+p3637
+aS'Parker Brothers'
+p3638
+aS'Schmidt Spiele'
+p3639
+aS'Smeets & Schippers'
+p3640
+aS"Waddington's Games, Inc."
+p3641
+aS'Winning Moves Games (USA)'
+p3642
+asg54
+g457
+sg56
+I120
+sS'boardgamefamily'
+p3643
+(lp3644
+S'Components: Miniatures'
+p3645
+aS'Hasbro Nostalgia Series'
+p3646
+aS'Risk'
+p3647
+asg61
+I120
+sS'boardgamecategory'
+p3648
+(lp3649
+S'Miniatures'
+p3650
+aS'Negotiation'
+p3651
+aS'Territory Building'
+p3652
+aS'Wargame'
+p3653
+asa(dp3654
+S'boardgamedesigner'
+p3655
+(lp3656
+S'Seiji Kanai'
+p3657
+asg5
+g6
+(S'<name sortindex="1">Say Bye to the Villains</name>'
+p3658
+tp3659
+Rp3660
+sg10
+I45
+sS'boardgamecompilation'
+p3661
+(lp3662
+S'Big Game Night 2016'
+p3663
+asg11
+I3
+sS'boardgamemechanic'
+p3664
+(lp3665
+S'Co-operative Play'
+p3666
+aS'Hand Management'
+p3667
+asg35
+I8
+sg36
+g653
+sS'boardgameartist'
+p3668
+(lp3669
+S'Noboru Sugiura'
+p3670
+asS'boardgamepublisher'
+p3671
+(lp3672
+S'Alderac Entertainment Group (AEG)'
+p3673
+aVGalápagos Jogos
+p3674
+aS'Japon Brand'
+p3675
+aS'Kanai Factory'
+p3676
+asg54
+S'10'
+p3677
+sg56
+I45
+sS'boardgamefamily'
+p3678
+(lp3679
+S'AEG: Big in Japan'
+p3680
+aS'AEG: Pocket Game'
+p3681
+aS'Country: Japan'
+p3682
+aS'Ninja'
+p3683
+asg61
+I45
+sS'boardgamecategory'
+p3684
+(lp3685
+S'Card Game'
+p3686
+asa(dp3687
+S'boardgamedesigner'
+p3688
+(lp3689
+VVlaada Chvátil
+p3690
+asg5
+g6
+(S'<name sortindex="1">Space Alert</name>'
+p3691
+tp3692
+Rp3693
+sg10
+I30
+sg11
+I1
+sS'boardgamemechanic'
+p3694
+(lp3695
+S'Action / Movement Programming'
+p3696
+aS'Area Movement'
+p3697
+aS'Co-operative Play'
+p3698
+aS'Hand Management'
+p3699
+aS'Simultaneous Action Selection'
+p3700
+asS'boardgameexpansion'
+p3701
+(lp3702
+S'Little Duckling (fan expansion for Space Alert)'
+p3703
+aS'Space Alert: The New Frontier'
+p3704
+asg35
+I5
+sg36
+g1008
+sS'boardgameartist'
+p3705
+(lp3706
+S'Radim Pech'
+p3707
+aVMilan Vavro\u0148
+p3708
+asS'boardgamepublisher'
+p3709
+(lp3710
+S'Czech Games Edition'
+p3711
+aS'Devir'
+p3712
+aS'Heidelberger Spieleverlag'
+p3713
+aS'HomoLudicus'
+p3714
+aS'IELLO'
+p3715
+aS'Magellan'
+p3716
+aS'New Games Order, LLC'
+p3717
+aS'One Moment Games'
+p3718
+aS'Quined White Goblin Games'
+p3719
+aS'Rebel'
+p3720
+aS'Red Glove'
+p3721
+aS'REXhry'
+p3722
+aS'Rio Grande Games'
+p3723
+asg54
+S'12'
+p3724
+sg56
+I30
+sS'boardgamefamily'
+p3725
+(lp3726
+S'CD Board Games'
+p3727
+aS'Solitaire Games'
+p3728
+asg61
+I30
+sS'boardgamecategory'
+p3729
+(lp3730
+S'Electronic'
+p3731
+aS'Real-time'
+p3732
+aS'Science Fiction'
+p3733
+aS'Space Exploration'
+p3734
+asa(dp3735
+S'boardgamedesigner'
+p3736
+(lp3737
+S'Jacques Johan Mogendorff'
+p3738
+asg5
+g6
+(S'<name sortindex="1">Stratego</name>'
+p3739
+tp3740
+Rp3741
+sg10
+I45
+sS'boardgamecompilation'
+p3742
+(lp3743
+S'Verkade spel'
+p3744
+asg11
+I2
+sS'boardgamemechanic'
+p3745
+(lp3746
+S'Grid Movement'
+p3747
+aS'Memory'
+p3748
+aS'Secret Unit Deployment'
+p3749
+asg35
+I2
+sS'boardgameimplementation'
+p3750
+(lp3751
+S'Pirates! Stratego'
+p3752
+aS'Stratego (Revised Edition)'
+p3753
+aS'Stratego Legends'
+p3754
+aS'Stratego Quick Battle'
+p3755
+aS'Stratego Waterloo'
+p3756
+aS'Stratego: 50 Years'
+p3757
+aS"L'Attaque"
+p3758
+asg36
+g86
+sS'boardgameartist'
+p3759
+(lp3760
+S'Donato Giancola'
+p3761
+aS'Michael Graves'
+p3762
+aS'Paul Windle'
+p3763
+asS'boardgamepublisher'
+p3764
+(lp3765
+S'Carlit'
+p3766
+aS'(Unknown)'
+p3767
+aS'4Kidz, Inc.'
+p3768
+aS'AS Company'
+p3769
+aS'Barnes & Noble'
+p3770
+aS'Chieftain Products'
+p3771
+aS'Crown & Andrews Ltd.'
+p3772
+aS'Damm / Egmont'
+p3773
+aS'danspil'
+p3774
+aS'Dino'
+p3775
+aS'Diset S. A.'
+p3776
+aS'Estrela'
+p3777
+aS'Globo Giocattoli'
+p3778
+aS'Hasbro'
+p3779
+aS'Javos (PaN)'
+p3780
+aS'John Sands Pty Ltd'
+p3781
+aS'Jumbo'
+p3782
+aS'Karto'
+p3783
+aS'Kod Kod'
+p3784
+aS'Milton Bradley'
+p3785
+aS'Nordic Games GmbH'
+p3786
+aS'Parker Brothers'
+p3787
+aS'PlayMonster (Play Monster)'
+p3788
+aS'Premix'
+p3789
+aS'Remoundo'
+p3790
+aS'Smeets & Schippers'
+p3791
+aS'Somerville Ltd.'
+p3792
+aS"Spear's Games"
+p3793
+aS'Spin Master Ltd.'
+p3794
+aS'Tactico'
+p3795
+aS'Takara'
+p3796
+aS'Trefl'
+p3797
+aS'Winning Moves France'
+p3798
+aS'Yetem S.A.'
+p3799
+aV\u039f\u03b4\u03cd\u03c3\u03c3\u03b5\u03b9\u03b1
+p3800
+asg54
+g457
+sg56
+I45
+sS'boardgamefamily'
+p3801
+(lp3802
+S'Hasbro Nostalgia Series'
+p3803
+aS'Stratego Series'
+p3804
+asg61
+I45
+sS'boardgamecategory'
+p3805
+(lp3806
+S'Abstract Strategy'
+p3807
+aS'Bluffing'
+p3808
+aS'Deduction'
+p3809
+aS'Fighting'
+p3810
+aS'Memory'
+p3811
+aS'Napoleonic'
+p3812
+aS'Wargame'
+p3813
+asa(dp3814
+S'boardgamedesigner'
+p3815
+(lp3816
+S'Rafael M. Verri'
+p3817
+asg5
+g6
+(S'<name sortindex="1">Supernova: A New Exodus</name>'
+p3818
+tp3819
+Rp3820
+sg10
+I35
+sg11
+I2
+sS'boardgamemechanic'
+p3821
+(lp3822
+S'Area Control / Area Influence'
+p3823
+aS'Area Movement'
+p3824
+aS'Card Drafting'
+p3825
+aS'Hand Management'
+p3826
+aS'Modular Board'
+p3827
+aS'Set Collection'
+p3828
+asg35
+I2
+sg36
+g86
+sS'boardgameartist'
+p3829
+(lp3830
+S'Daniel Bogni'
+p3831
+asS'boardgamepublisher'
+p3832
+(lp3833
+S'Ludofy Creative'
+p3834
+asg54
+S'10'
+p3835
+sg56
+I35
+sg61
+I25
+sS'boardgamecategory'
+p3836
+(lp3837
+S'Bluffing'
+p3838
+aS'Card Game'
+p3839
+aS'Deduction'
+p3840
+aS'Science Fiction'
+p3841
+aS'Space Exploration'
+p3842
+asa(dp3843
+S'boardgamedesigner'
+p3844
+(lp3845
+S'Julian Courtland-Smith'
+p3846
+asg5
+g6
+(S'<name sortindex="1">Survive: Escape from Atlantis!</name>'
+p3847
+tp3848
+Rp3849
+sg10
+I60
+sg11
+I2
+sS'boardgamemechanic'
+p3850
+(lp3851
+S'Action Point Allowance System'
+p3852
+aS'Dice Rolling'
+p3853
+aS'Grid Movement'
+p3854
+aS'Memory'
+p3855
+aS'Modular Board'
+p3856
+aS'Secret Unit Deployment'
+p3857
+asS'boardgameexpansion'
+p3858
+(lp3859
+S'Survive: Dolphins & Squids & 5-6 Players...Oh My!'
+p3860
+aS'Survive: Escape from Atlantis! 5-6 Player Mini Expansion'
+p3861
+aS'Survive: Escape from Atlantis! Dolphins & Dive Dice Mini Extension'
+p3862
+aS'Survive: Escape from Atlantis! The Giant Squid Mini Expansion'
+p3863
+asg35
+I4
+sS'boardgameimplementation'
+p3864
+(lp3865
+S'Survive: Space Attack!'
+p3866
+aS'Escape from Atlantis'
+p3867
+asg36
+g37
+sS'boardgameartist'
+p3868
+(lp3869
+S'David Ausloos'
+p3870
+aS'Jean Brice Dugait'
+p3871
+aVStéphane Gantiez
+p3872
+asS'boardgamepublisher'
+p3873
+(lp3874
+S'Parker Brothers'
+p3875
+aS'Stronghold Games'
+p3876
+aS'ADC Blackfire Entertainment'
+p3877
+aS'Asmodee'
+p3878
+aS'Asterion Press'
+p3879
+aS'Conclave Editora'
+p3880
+aS'Editrice Giochi'
+p3881
+aS'Kaissa Chess & Games'
+p3882
+aS'Lautapelit.fi'
+p3883
+aVVennerød Forlag AS
+p3884
+aS"Waddington's Games, Inc."
+p3885
+asg54
+g457
+sg56
+I60
+sS'boardgamefamily'
+p3886
+(lp3887
+S'Animals: Dolphins'
+p3888
+aS'Animals: Sharks'
+p3889
+aS'Atlantis'
+p3890
+aS'Survive!'
+p3891
+asg61
+I45
+sS'boardgamecategory'
+p3892
+(lp3893
+S'Adventure'
+p3894
+aS'Animals'
+p3895
+aS'Bluffing'
+p3896
+aS'Nautical'
+p3897
+asa(dp3898
+S'boardgamedesigner'
+p3899
+(lp3900
+S'Daniel Windfeld Schmidt'
+p3901
+asg5
+g6
+(S'<name sortindex="1">Three Cheers for Master</name>'
+p3902
+tp3903
+Rp3904
+sg10
+I40
+sg11
+I2
+sS'boardgamemechanic'
+p3905
+(lp3906
+S'Hand Management'
+p3907
+aS'Take That'
+p3908
+asS'boardgameexpansion'
+p3909
+(lp3910
+S'Three Cheers For Master: Bookmark of Literal Undermining'
+p3911
+aS'Three Cheers for Master: Feats Expansion'
+p3912
+aS'Three Cheers for Master: Phil A. Minion'
+p3913
+aS'Three Cheers for Master: Santa Claws'
+p3914
+asg35
+I6
+sg36
+g37
+sS'boardgameartist'
+p3915
+(lp3916
+S'Daniel Windfeld Schmidt'
+p3917
+asS'boardgamepublisher'
+p3918
+(lp3919
+S'Atlas Games'
+p3920
+aS'Edge Entertainment'
+p3921
+aS'Galakta'
+p3922
+aS'Ludofy Creative'
+p3923
+asg54
+g37
+sg56
+I40
+sg61
+I20
+sS'boardgamecategory'
+p3924
+(lp3925
+S'Card Game'
+p3926
+aS'Humor'
+p3927
+asa(dp3928
+S'boardgamedesigner'
+p3929
+(lp3930
+VVlaada Chvátil
+p3931
+asg5
+g6
+(S'<name sortindex="1">Through the Ages: A New Story of Civilization</name>'
+p3932
+tp3933
+Rp3934
+sg10
+I240
+sg11
+I2
+sS'boardgamemechanic'
+p3935
+(lp3936
+S'Action Point Allowance System'
+p3937
+aS'Auction/Bidding'
+p3938
+aS'Card Drafting'
+p3939
+aS'Hand Management'
+p3940
+asg35
+I4
+sS'boardgameimplementation'
+p3941
+(lp3942
+S'Through the Ages: A Story of Civilization'
+p3943
+asg36
+g653
+sS'boardgameartist'
+p3944
+(lp3945
+S'Jakub Politzer'
+p3946
+aVMilan Vavro\u0148
+p3947
+asS'boardgamepublisher'
+p3948
+(lp3949
+S'Czech Games Edition'
+p3950
+aS'Cranio Creations'
+p3951
+aS'Devir'
+p3952
+aS'DiceTree Games'
+p3953
+aS'Eagle-Gryphon Games'
+p3954
+aS'GaGa Games'
+p3955
+aVGém Klub Kft.
+p3956
+aS'Heidelberger Spieleverlag'
+p3957
+aS'IELLO'
+p3958
+aS'MINDOK'
+p3959
+aS'One Moment Games'
+p3960
+aS'Rebel'
+p3961
+asg54
+S'14'
+p3962
+sg56
+I240
+sS'boardgamefamily'
+p3963
+(lp3964
+S'Tableau Building'
+p3965
+asg61
+I180
+sS'boardgamecategory'
+p3966
+(lp3967
+S'Card Game'
+p3968
+aS'Civilization'
+p3969
+aS'Economic'
+p3970
+asa(dp3971
+S'boardgamedesigner'
+p3972
+(lp3973
+S'Chuck Foley'
+p3974
+aS'Reyn Guyer'
+p3975
+aS'Neil W. Rabens'
+p3976
+asg5
+g6
+(S'<name sortindex="1">Twister</name>'
+p3977
+tp3978
+Rp3979
+sg10
+I10
+sg11
+I2
+sS'boardgamemechanic'
+p3980
+(lp3981
+S'Player Elimination'
+p3982
+aS'Roll / Spin and Move'
+p3983
+asg35
+I4
+sS'boardgameimplementation'
+p3984
+(lp3985
+S'Finger Twister'
+p3986
+asg36
+g37
+sS'boardgamepublisher'
+p3987
+(lp3988
+S'Alexander'
+p3989
+aS'Altap'
+p3990
+aS'Arrow Games Ltd'
+p3991
+aS'Basic Fun, Inc.'
+p3992
+aS'Game Office'
+p3993
+aS'Hasbro'
+p3994
+aS'Jumbo'
+p3995
+aS'Kidconnection'
+p3996
+aS'Kids Fun Factory'
+p3997
+aS'MB Juegos'
+p3998
+aS'MB peli'
+p3999
+aS'MB spel'
+p4000
+aS'MB Spellen'
+p4001
+aS'MB Spiele'
+p4002
+aS'MB spil (Danish)'
+p4003
+aS'MB spill'
+p4004
+aS'Milton Bradley'
+p4005
+aS'Nintendo Co., Ltd.'
+p4006
+aS'Tri-ang'
+p4007
+aS'Winning Moves Games (USA)'
+p4008
+asg54
+g391
+sg56
+I10
+sS'boardgamefamily'
+p4009
+(lp4010
+S'Bratz'
+p4011
+aS'Celebrities: Walt Disney'
+p4012
+aS'Characters: Hello Kitty'
+p4013
+aS'Promotional Board Games'
+p4014
+aS'TV Series: Sesame Street'
+p4015
+aS'TV Series: Tweenies'
+p4016
+aS'Twister'
+p4017
+asg61
+I10
+sS'boardgamecategory'
+p4018
+(lp4019
+S'Action / Dexterity'
+p4020
+aS"Children's Game"
+p4021
+aS'Party Game'
+p4022
+asa(dp4023
+S'boardgamedesigner'
+p4024
+(lp4025
+S'Fabiano Saccol'
+p4026
+asS'boardgameintegration'
+p4027
+(lp4028
+VHérois & Monstros
+p4029
+asg5
+g6
+(S'<name sortindex="3">A Ultima Fortaleza</name>'
+p4030
+tp4031
+Rp4032
+sg10
+I120
+sg11
+I1
+sS'boardgamemechanic'
+p4033
+(lp4034
+S'Area Movement'
+p4035
+aS'Deck / Pool Building'
+p4036
+aS'Hand Management'
+p4037
+aS'Simultaneous Action Selection'
+p4038
+aS'Variable Player Powers'
+p4039
+aS'Worker Placement'
+p4040
+asg35
+I6
+sg36
+g653
+sS'boardgamepublisher'
+p4041
+(lp4042
+VKalango Analógico
+p4043
+asg56
+I120
+sS'boardgamefamily'
+p4044
+(lp4045
+S'4X games'
+p4046
+asg61
+I120
+sS'boardgamecategory'
+p4047
+(lp4048
+S'Fantasy'
+p4049
+asa(dp4050
+S'boardgamedesigner'
+p4051
+(lp4052
+S'Elliot Rudell'
+p4053
+asg5
+g6
+(S'<name sortindex="1">Upwords</name>'
+p4054
+tp4055
+Rp4056
+sg10
+I90
+sg11
+I2
+sS'boardgamemechanic'
+p4057
+(lp4058
+S'Hand Management'
+p4059
+aS'Tile Placement'
+p4060
+asg35
+I4
+sg36
+g86
+sS'boardgamepublisher'
+p4061
+(lp4062
+S'CEFA (Celulosa Fabril S. A.)'
+p4063
+aS'Hasbro'
+p4064
+aS'MB Jeux'
+p4065
+aS'MB Spellen'
+p4066
+aS'Milton Bradley'
+p4067
+aS'Parker Brothers'
+p4068
+aS'Winning Moves Games (USA)'
+p4069
+asg54
+g457
+sg56
+I90
+sS'boardgamefamily'
+p4070
+(lp4071
+S'3D Games'
+p4072
+asg61
+I90
+sS'boardgamecategory'
+p4073
+(lp4074
+S'Word Game'
+p4075
+asa(dp4076
+S'boardgamedesigner'
+p4077
+(lp4078
+VMilton Célio de Oliveira Filho
+p4079
+asg5
+g6
+(S'<name sortindex="1">Veredicto</name>'
+p4080
+tp4081
+Rp4082
+sg10
+I45
+sg11
+I2
+sS'boardgamemechanic'
+p4083
+(lp4084
+S'Betting/Wagering'
+p4085
+aS'Card Drafting'
+p4086
+aS'Partnerships'
+p4087
+aS'Storytelling'
+p4088
+asg35
+I4
+sS'boardgamepublisher'
+p4089
+(lp4090
+S'Game Office'
+p4091
+aS'Toyster'
+p4092
+asg56
+I45
+sg61
+I45
+sS'boardgamecategory'
+p4093
+(lp4094
+S'Murder/Mystery'
+p4095
+asa.
