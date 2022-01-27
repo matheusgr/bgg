@@ -1,20 +1,21 @@
-import urllib2
+from urllib.request import urlopen
 import time
 import lxml.objectify
+import lxml.etree
 
 
 def callBgg(url):
 	time.sleep(5)
-	response = urllib2.urlopen(url)
+	response = urlopen(url)
 	xml = response.read()
 	data = lxml.objectify.fromstring(xml)
 	retry = 5
 	while data.tag == 'message' and retry > 0:
 		time.sleep(5)
 		retry -= 1
-		response = urllib2.urlopen(url)
+		response = urlopen(url)
 		xml = response.read()
-		data = lxml.objectify.fromstring(xml)	
+		data = lxml.objectify.fromstring(xml)
 	return data
 
 class Bgg:
@@ -79,6 +80,7 @@ games = []
 for item in o.item:
 	oid = dict(item.items())['objectid']
 	name = item.name
+	print("PROCESSING...", name)
 	gamedata = Bgg('thing', {'id': oid})
 	g = Game(name, gamedata.item)
 	games.append(g.data)
