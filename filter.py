@@ -30,20 +30,20 @@ def submenu(allopt, selection):
 	allopt_sorted = sorted(list(allopt))
 	while select not in "B":
 		pprint(selection["mechanics"])
-		print " [R] - remove one"
-		print " [A] - add one"
-		print " [C] - clear"
-		print " [B/Enter] - back"
-		print
-		select = raw_input("option? ").upper()
+		print(" [R] - remove one")
+		print(" [A] - add one")
+		print(" [C] - clear")
+		print(" [B/Enter] - back")
+		print()
+		select = input("option? ").upper()
 		if select == "R":
 			pprint([x for x in enumerate(selection["mechanics"])])
-			option = int(raw_input("option? ") or -1)
+			option = int(input("option? ") or -1)
 			if option != -1:
 				selection["mechanics"].pop(option)
 		elif select == "A":
 			pprint([x for x in enumerate(allopt_sorted)])
-			option = int(raw_input("option? ") or -1)
+			option = int(input("option? ") or -1)
 			if option != -1:
 				choose = allopt_sorted[option]
 				if choose not in selection["mechanics"]:
@@ -55,24 +55,24 @@ def submenu(allopt, selection):
 def menu(games, mechanics, selection):
 	select = "-"
 	while select != "Q":
-		print "[N] - n players [" + str(selection["n_players"]) + "]"
-		print "[P] - playing time (+- 30 min) [" + str(selection["playingtime"]) + "]"
-		print "[M] - mechanics/categories [" + str(selection["mechanics"]) + "]"
-		print
-		print "Games.... "
+		print("[N] - n players [" + str(selection["n_players"]) + "]")
+		print("[P] - playing time (+- 30 min) [" + str(selection["playingtime"]) + "]")
+		print("[M] - mechanics/categories [" + str(selection["mechanics"]) + "]")
+		print()
+		print("Games.... ")
 		pprint(best(games, selection)[:10])
-		print "[Q] - quit"
-		print
+		print("[Q] - quit")
+		print()
 
-		select = raw_input("I? ").upper()
+		select = input("I? ").upper()
 		if select == 'N':
-			selection["n_players"] = int(raw_input("n_players? ") or 2)
+			selection["n_players"] = int(input("n_players? ") or 2)
 		elif select == "P":
-			selection["playingtime"] = int(raw_input("playingtime? ") or 30)
+			selection["playingtime"] = int(input("playingtime? ") or 30)
 		elif select == "M":
 			submenu(mechanics, selection)
 
-games = pickle.load(open('games.dat'))
+games = pickle.load(open('games.dat', 'rb'))
 
 mechanics = set()
 
