@@ -3,11 +3,22 @@ import time
 import lxml.objectify
 import lxml.etree
 
+import os
+import os.path
 
-def callBgg(url):
-	time.sleep(5)
-	response = urlopen(url)
-	xml = response.read()
+def callBgg(url, name):
+
+	write = False
+
+	fname = 'data_xml' + os.sep + name + ".xml"
+	if os.path.exists('data_xml' + os.sep + name + ".xml"):
+		xml = open(fname, 'rb').read()
+	else:
+		response = urlopen(url)
+		xml = response.read()
+		time.sleep(5)
+		write = True
+
 	data = lxml.objectify.fromstring(xml)
 	retry = 5
 	while data.tag == 'message' and retry > 0:
@@ -16,13 +27,16 @@ def callBgg(url):
 		response = urlopen(url)
 		xml = response.read()
 		data = lxml.objectify.fromstring(xml)
+	if write:
+		open(fname, 'wb').write(xml)
 	return data
 
 class Bgg:
 	SITE = "https://www.boardgamegeek.com/xmlapi2/"
 	def __init__(self, base, params):
 		self.url = self.SITE + base + "?" + '&'.join([str(x) + '=' + str(y) for (x, y) in params.items()])
-		self.data = callBgg(self.url)
+		name = '___'.join([str(x) + '_' + str(y) for (x, y) in sorted(params.items())])
+		self.data = callBgg(self.url, name)
 			
 	def __getattr__(self, attr):
 		return self.data[attr]
@@ -34,7 +48,7 @@ def evaluate(d, data, attr, process=int):
 class Game:
 	def __init__(self, name, data):
 		self.name = name
-		self.data = {'name': name}
+		self.data = {'name': name, 'description': data.description.text}
 		for attr in ['minplayers', 'maxplayers', 'playingtime', 'maxplaytime', 'minplaytime']:
 			evaluate(self.data, data, attr)
 		if hasattr(data, 'poll'):
@@ -78,11 +92,13 @@ o = Bgg('collection', {'username': 'matheusgr'})
 games = []
 
 for item in o.item:
+	if item.status.get('own') != "1":
+		continue
 	oid = dict(item.items())['objectid']
 	name = item.name
 	print("PROCESSING...", name)
 	gamedata = Bgg('thing', {'id': oid})
-	g = Game(name, gamedata.item)
+	g = Game(name.text, gamedata.item)
 	games.append(g.data)
 	
 import pickle
